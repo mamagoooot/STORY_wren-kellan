@@ -35,46 +35,8 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 - **Defining Quote**: *"Nothing. Because I locked the doors."*
 - **Emotional Anchor**
   - Mr. Pancake (emotional anchor)
-# Kellan – Final Character Visual Reference (Portrait)
-
-**Version**: Kellan v6 – "Ghost Sniper, Street-Ready"  
-**Use Case**: Visual alignment for character modeling, art reference, disguise logic, and scene framing.
 
 ---
-
-## 🎯 Key Attributes
-
-- **Posture**: Upright, arms crossed — projects guarded dominance without overcompensation
-- **Clothing**: Charcoal bomber jacket, black crew-neck shirt — nondescript, practical, tactical
-
----
-
-## 📸 Image Notes
-- Shot against a muted gray backdrop to enhance face without distraction
-- Lighting is diffuse and directional, showcasing facial structure and eye definition
-- Purposefully avoids dramatic shadow to maintain realism
-- Visual style fits within both espionage thriller and grounded noir aesthetics
-
----
-
-## 🔍 Intended Character Impression
-> “Someone who doesn’t need to draw attention to control a room. You forget what he looks like five minutes later—but not the way he made you feel.”
-
-Ideal for:
-- Surveillance scenes
-- Civilian disguise moments
-- Opposing high-drama characters (e.g., Wren)
-- Close-quarters tension
-
----
-
-**Status**: ✅ Approved for integration  
-**Next Steps**:  
-- Use this as a base for disguise variations  
-- Create duo visual with Wren (laptop or hallway scene)  
-- Optional: generate action variant (bloodied knuckles, dusk lighting, etc.)
-
-Add visual reference log for Wren and Kellan character designs
 
 - Documented Wren’s core appearance and five visual looks:
   - Comfy core outfit
@@ -100,9 +62,7 @@ Add visual reference log for Wren and Kellan character designs
   - Casual grey t-shirt look when catching Wren
 - Included personality and story notes about visual contrast and character dynamics
 
-
-
-# Wren's Aesthetic Moodboard
+### Wren's Aesthetic Moodboard
 
 This board visually captures the chaos, charm, and quiet depth of Wren. It blends cozy rebellion with unexpected elegance, reflecting her role as a quirky survivor and reluctant heroine in *Run, Little Mouse* and the *Bone Keeper Chronicles*.
 
@@ -147,7 +107,6 @@ This visual reference informs:
 - Costume and disguise choices in their on-the-run scenes.
 - The emotional texture of quiet moments (her scrolling through old photos, wrapping herself in her favorite scarf, sketching outfits in the margins of a spy file...).
 
-
 ### Kellan
 - **Age**: 30s–40s  
 - **Profession**: Assassin / Shadow operative (Ghost Division)  
@@ -160,11 +119,35 @@ This visual reference informs:
 - **Dynamic with Wren**:
   - Starts as a mission. Becomes confusion. Then obsession. Then protection. Then... he’s the one who cracks.
 
+## Kellan – Final Character Visual Reference (Portrait)
+**Version**: Kellan v6 – "Ghost Sniper, Street-Ready"
+**Use Case**: Visual alignment for character modeling, art reference, disguise logic, and scene framing.
+### 🎯 Key Attributes
+- **Posture**: Upright, arms crossed — projects guarded dominance without overcompensation
+- **Clothing**: Charcoal bomber jacket, black crew-neck shirt — nondescript, practical, tactical
+### 📸 Image Notes
+- Shot against a muted gray backdrop to enhance face without distraction
+- Lighting is diffuse and directional, showcasing facial structure and eye definition
+- Purposefully avoids dramatic shadow to maintain realism
+- Visual style fits within both espionage thriller and grounded noir aesthetics
+### 🔍 Intended Character Impression
+> “Someone who doesn’t need to draw attention to control a room. You forget what he looks like five minutes later—but not the way he made you feel.”
+Ideal for:
+- Surveillance scenes
+- Civilian disguise moments
+- Opposing high-drama characters (e.g., Wren)
+- Close-quarters tension
+**Status**: ✅ Approved for integration  
+**Next Steps**:  
+- Use this as a base for disguise variations  
+- Create duo visual with Wren (laptop or hallway scene)  
+- Optional: generate action variant (bloodied knuckles, dusk lighting, etc.)
+
 ---
 
 ## 🧵 SUPPORTING CHARACTERS
 
-#### Ari
+### Ari
 
 - Wren’s best friend.
 - Gay fashion designer with a flair for drama, creativity, and disguise.
@@ -186,6 +169,9 @@ This visual reference informs:
 ### Mrs. K
 - Full Name: Mrs. Kaplan.
 - Nosey Jewish neighbor
+
+### Dr. Pancake
+- Wren’s antisocial cat. Probably plotting something.
 
 ---
 
