@@ -490,5 +490,61 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
 
 ## 📥 TO SORT LATER
 
-> Use this section like a notebook. Paste anything you're not sure where to place yet.
-> 
+### 📌 Wren's Spy-nterest Board
+*Category: Character Moodboard / Visual Aesthetic / Emotional Tone*
+
+#### 🎯 1. OPERATION: “PEW PEW ENERGY”
+- Wren on a red couch in stolen fatigues, making finger guns.
+- Soft shirt, sharp stare.
+- Sunlight through dusty blinds.
+- Caption in Sharpie: *“Don’t touch my granola. Or my trauma.”*
+> **Mood:** Romantic sabotage + vintage spy movie still  
+> **Color Palette:** Crimson, olive drab, golden hour
+
+#### 🎒 2. THE SOFTNESS WAS A TRAP
+- Men’s dress shirts wrapped around her like memory.
+- Lipstick stains on field maps.
+- Her boots at the door of someone else’s apartment.
+- Finger smudges on a camera lens.
+> **Mood:** Cozy threat / Emotional camouflage  
+> **Color Palette:** Bone white, muted green, rust
+
+#### 🛠️ 3. TOOLS OF THE CHAOS GOBLIN
+- Polaroid camera with hidden blade.
+- Messenger bag full of snacks, burner phones, and one sock puppet.
+- Scissors taped to a reusable coffee cup.
+- Bullet journal with chaotic tabs and “DO NOT READ” written 6 times in red ink.
+> **Mood:** Weaponized whimsy  
+> **Color Palette:** Bright post-it notes, duct tape silver, matte black
+
+#### 🐈 4. CAT WITH A KNIFE (INTERNAL)
+- A cat staring judgmentally from a windowsill.
+- A scratched-up notebook with a to-do list:  
+  `1. Survive.`  
+  `2. Steal.`  
+  `3. Pretend I’m fine.`  
+- Neon sign: “Trust Issues Open 24/7”
+> **Mood:** Guarded affection / Sarcastic resilience  
+> **Color Palette:** Indigo, twilight blue, burgundy
+
+#### 🎭 5. DISGUISES, DISTRACTIONS, & DISASTERS
+- A Ren Faire costume covered in glitter and regret.
+- A trench coat over pajamas.
+- Sunglasses worn indoors, badly.
+- A decoy envelope full of sparkly stickers.
+> **Mood:** Misdirection with flair  
+> **Color Palette:** Bronze, black lace, plum
+
+#### 🎥 6. FOOTAGE KELLAN SHOULDN’T HAVE SEEN
+- Her, asleep in his shirt, file still open beside her.
+- A blurred photo labeled *"Surveillance – do not delete."*
+- Her wrist, loosely wrapped in rope, from the couch scene.
+- The folder he found... and the look she gave him after.
+> **Mood:** Intimacy meets exposure  
+> **Color Palette:** Sepia, soft charcoal, ruined trust white
+
+#### 🧵 TAGS:
+`#SlowBurn` `#SpyCore` `#EmotionalSaboteur` `#SoftIsNotSafe` `#PewPewApproved` `#StolenShirtSyndrome`
+
+---
+
