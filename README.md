@@ -4,7 +4,7 @@
 - [Core Concept](#core-concept)
 - [Characters](#characters)
 - [Supporting Characters](#supporting-characters)
-- [Setting: ISRAEL](#setting)
+- [Setting](#setting)
 - [Tone & Themes](#tone--themes)
 - [Memory to Save](#memory-to-save)
 - [Scenes & Snippets](#scenes--snippets)
@@ -35,6 +35,117 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 - **Defining Quote**: *"Nothing. Because I locked the doors."*
 - **Emotional Anchor**
   - Mr. Pancake (emotional anchor)
+# Kellan – Final Character Visual Reference (Portrait)
+
+**Version**: Kellan v6 – "Ghost Sniper, Street-Ready"  
+**Use Case**: Visual alignment for character modeling, art reference, disguise logic, and scene framing.
+
+---
+
+## 🎯 Key Attributes
+
+- **Posture**: Upright, arms crossed — projects guarded dominance without overcompensation
+- **Clothing**: Charcoal bomber jacket, black crew-neck shirt — nondescript, practical, tactical
+
+---
+
+## 📸 Image Notes
+- Shot against a muted gray backdrop to enhance face without distraction
+- Lighting is diffuse and directional, showcasing facial structure and eye definition
+- Purposefully avoids dramatic shadow to maintain realism
+- Visual style fits within both espionage thriller and grounded noir aesthetics
+
+---
+
+## 🔍 Intended Character Impression
+> “Someone who doesn’t need to draw attention to control a room. You forget what he looks like five minutes later—but not the way he made you feel.”
+
+Ideal for:
+- Surveillance scenes
+- Civilian disguise moments
+- Opposing high-drama characters (e.g., Wren)
+- Close-quarters tension
+
+---
+
+**Status**: ✅ Approved for integration  
+**Next Steps**:  
+- Use this as a base for disguise variations  
+- Create duo visual with Wren (laptop or hallway scene)  
+- Optional: generate action variant (bloodied knuckles, dusk lighting, etc.)
+
+Add visual reference log for Wren and Kellan character designs
+
+- Documented Wren’s core appearance and five visual looks:
+  - Comfy core outfit
+  - Ari’s couture makeover
+  - Ren Faire costume
+  - Wren in Kellan’s tactical gear
+  - Peew-peew selfie scene with Kellan
+- Documented Kellan’s core appearance and two visual looks:
+  - Standard all-black full-body outfit
+  - Casual grey t-shirt look when catching Wren
+- Included personality and story notes about visual contrast and character dynamics
+
+Add visual reference log for Wren and Kellan character designs
+
+- Documented Wren’s core appearance and five visual looks:
+  - Comfy core outfit
+  - Ari’s couture makeover
+  - Ren Faire costume
+  - Wren in Kellan’s tactical gear
+  - Peew-peew selfie scene with Kellan
+- Documented Kellan’s core appearance and two visual looks:
+  - Standard all-black full-body outfit
+  - Casual grey t-shirt look when catching Wren
+- Included personality and story notes about visual contrast and character dynamics
+
+
+
+# Wren's Aesthetic Moodboard
+
+This board visually captures the chaos, charm, and quiet depth of Wren. It blends cozy rebellion with unexpected elegance, reflecting her role as a quirky survivor and reluctant heroine in *Run, Little Mouse* and the *Bone Keeper Chronicles*.
+
+**Pinterest Board Link**: [Ash & Ink – Wren Aesthetic](https://www.pinterest.com/gootlife/ash-ink/)
+
+---
+
+## Core Themes
+
+- **Visual Texture**: Layered fabrics, vintage scarves, messy curls, analog film cameras, old journals.
+- **Mood**: A blend of melancholy and mischief. Half cup of coffee, half cup of danger.
+- **Colors**: Muted jewel tones, greyscale shadows, soft amber light. Moody greens and dusty rose.
+- **Vibe**: A woman who lives in a thrifted coat, takes secret photos of strangers’ shoes, and talks to her cat like a roommate.
+
+---
+
+## Style Elements
+
+| Category        | Examples from Board                          |
+|----------------|-----------------------------------------------|
+| **Clothing**   | Oversized cardigans, combat boots with floral socks, vintage dresses under utility jackets |
+| **Accessories**| Locket necklaces, old Polaroids, mismatched earrings, lens cloth in back pocket |
+| **Spaces**     | Tiny apartments with personality, layered textiles, fairy lights, cluttered desks |
+| **Tech**       | Scratched laptop covered in stickers, film reels, camera bags with hidden compartments |
+| **Coffee**     | Her *Hobo Coffee Code Chart*, latte swirls that mean "don't talk to me" or "tell me everything" |
+
+---
+
+## Interpretive Notes
+
+Wren’s aesthetic isn’t “designed.” It’s accumulated. Every item in her space tells a story—often literally labeled, folded, or pinned. Her wardrobe looks like it could be hiding secrets in the lining. Her living space smells like coffee, dust, and lavender, and looks like a storm passed through—but on purpose.
+
+She's not a trend. She's a *tale*.
+
+---
+
+## Use in Storytelling
+
+This visual reference informs:
+- Set design for her apartment or work studio.
+- How she physically contrasts with Kellan’s precise, military-adjacent look.
+- Costume and disguise choices in their on-the-run scenes.
+- The emotional texture of quiet moments (her scrolling through old photos, wrapping herself in her favorite scarf, sketching outfits in the margins of a spy file...).
 
 
 ### Kellan
@@ -85,6 +196,91 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 - Security culture, casual paranoia, protekziya networks, and nosy neighbors all shape the tension.
 - Safehouses range from upscale Tel Aviv flats to moshav bomb shelters.
 - Real Israeli bureaucracy and culture (e.g., Wren’s protekziya scenes, Ari’s fashion chaos, unexpected informants).
+
+### 🖤 Kellan's Apartment – Visual Reference
+
+#### Mood Summary
+It smells like old books, gun oil, and something burning faintly in the walls.  
+The light doesn’t fill this place—it slants.  
+Everything has a purpose. Everything has a story it refuses to tell.
+
+---
+
+#### Entryway
+- Matte black metal door with old boot scuffs.
+- One key on the hook. Unlabeled.
+- Long narrow tray for two precisely aligned shoes.
+- Empty coat rack.
+
+---
+
+#### Living Room
+- Low-profile charcoal gray sofa. Firm. No throw pillows.
+- Scarred reclaimed wood coffee table, iron-reinforced.
+- Book: spine cracked, cover blank, face-down.
+- TV: unplugged. HDMI coiled neatly.
+- Wall: black-and-white photo (could be surveillance).
+- Bookshelf: minimal. Blank journals, sand timer, frozen chessboard mid-match.
+
+---
+
+#### Kitchen
+- Matte black cabinets. Smudge-free.
+- Concrete countertop.
+- **Spices**:
+  - Smoked paprika  
+  - Za’atar  
+  - Black salt  
+- Knife block: two knives missing.
+- **Fridge**:
+  - Cold brew
+  - Vacuum-sealed takeout
+  - Three hot sauces
+  - One unlabeled vial
+- Handmade ceramic mug (chipped). Never washed by anyone else.
+
+---
+
+#### Bedroom
+- Bed: ground-level. Tightly folded military blanket.
+- Headboard: possibly reclaimed synagogue bench or confession booth panel.
+- Drawer contents:
+  - Watch
+  - USB
+  - Three currencies
+  - Broken chain, pendant inside lining
+- One shirt: crisp, hanging outside closet. Smells like cedar and smoke.
+
+---
+
+#### Bathroom
+- Stark. Clean. Mirror cracked lower-right.
+- Black square soap. Unlabeled shampoo.
+- **Hidden behind mirror**:
+  - Folding blade
+  - Backup SIMs
+  - List of names. Most crossed out.
+
+---
+
+#### The Other Door
+Painted matte navy. Doesn’t match.
+**Inside (if Wren finds it)**:
+- Tactical gear displayed like artifacts.
+- Shelves: trackers, burners, binders, one labeled *Crescent Eyes*.
+- A single note tucked in the back:  
+  *“She’s not what they said she is.”*
+
+---
+
+#### Style Keywords
+- Shadowplay  
+- Scarred elegance  
+- Smoke and rust  
+- Control through stillness  
+- Absence as aesthetic  
+- Brutalist noir
+
 
 ---
 
@@ -158,6 +354,122 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 - Emotional cracks form; Kellan delays action
 - Betrayal happens (Wren tries to get him arrested or escapes him at cost)
 
+#### 🗓️ Wren & Kellan Post-Shooting Safehouse Timeline (with Dual Ratings)
+
+This timeline tracks all locations Wren and Kellan stay in after Wren is shot—detailing location, duration, what happens, and how each of them rates the experience (very differently).
+---
+
+#### 0. 📍 Initial Incident
+- **Event**: Wren is shot.
+- **Location**: Unknown urban area.
+- **Outcome**: Kellan extracts her instead of eliminating her.
+- **Immediate Destination**: His personal apartment safehouse.
+
+---
+
+#### 1. 🏙️ Kellan’s Apartment – “The Ghost’s Nest”
+- **Location**: Secure, high-end flat with minimalist design.
+- **Duration**: ~2–3 weeks
+- **Events**:
+  - Wren wakes up post-surgery/field medicine.
+  - Couch vs. bed tension begins.
+  - She raids his luxury closet and disrupts his system.
+  - She insists on returning to her apartment to rescue **Dr. Pancake** (her cat) and grab her files.
+- **Why They Leave**: Syndicate or metadata leak compromises safety. Kellan burns it down to erase evidence.
+
+**Wren’s Rating**: ★★☆☆☆  
+> “Zero snacks. Creepy silence. Nice towels. Lost two stars for blood-shaming me.”
+
+**Kellan’s Rating**: ★★★★☆  
+> “Clean. Secure. Strategically located. Would’ve been five stars until she reorganized my knives by color.”
+
+---
+
+#### 2. 🏞️ Remote Cabin – “Snowed-In & Tense”
+- **Location**: Off-grid forest or mountain hideout.
+- **Duration**: ~1 week
+- **Events**:
+  - Wren becomes feverish; Kellan nurses her back.
+  - Forced proximity. One bed. Emotional walls start to crack.
+  - Quiet nights. Long silences. Accidental tenderness.
+- **Why They Leave**: A dead-drop or external ping reveals they’ve been tracked. Forced evacuation.
+
+**Wren’s Rating**: ★★★☆☆  
+> “Cozy-ish. Fire saved it. Still mad he made me take fever meds *without* hot cocoa.”
+
+**Kellan’s Rating**: ★★☆☆☆  
+> “Unreliable generator. No perimeter tech. She made soup and cried at the wind. Burn it all.”
+
+---
+
+#### 3. 🚇 Underground Bunker – “The Mold Dungeon”
+- **Location**: Disused metro access or tunnel bunker.
+- **Duration**: ~4–5 days
+- **Events**:
+  - Kellan interrogates someone—Wren witnesses it and spirals.
+  - She starts planning escape or contacting outside help.
+  - The bunker is compromised—message left behind, power flickers.
+- **Why They Leave**: Someone has found them—or wants them to know it.
+
+**Wren’s Rating**: ★☆☆☆☆  
+> “It smells like mold, trauma, and bad decisions. Absolutely not.”
+
+**Kellan’s Rating**: ★★★★☆  
+> “Untraceable, power-independent, silent. She lasted 36 hours before asking if it had ghosts. It does not.”
+
+---
+
+#### 4. 🖼️ Ari’s Loft – “The Fashion Refuge”
+- **Location**: Bright, artistic penthouse with high windows and curated chaos.
+- **Duration**: 1–2 nights
+- **Events**:
+  - Wren receives a full disguise and makeover.
+  - Ari tries to style Kellan and emotionally dissects him for fun.
+  - Wren laughs—actually laughs.
+- **Why They Leave**: Ari is being followed. Loft is too public to stay longer.
+
+**Wren’s Rating**: ★★★★★  
+> “Coffee, couture, compliments. I’m home.”
+
+**Kellan’s Rating**: ★☆☆☆☆  
+> “Too many windows. Too much velvet. He tried to style me. I was offered a feathered scarf. No.”
+
+---
+
+#### 5. 🧱 Border Safehouse – “The Cracked Shell”
+- **Location**: Collapsing stone building near a smuggling route or border town.
+- **Duration**: ~5–7 days
+- **Events**:
+  - Wren and Kellan share a bed. She almost trusts him. Then doesn’t.
+  - Kellan appears to betray her—hands her over.
+  - She realizes too late it’s a ruse… or not?
+- **Why They Leave**: Betrayal, escape, confusion. It implodes fast.
+
+**Wren’s Rating**: ★★☆☆☆  
+> “Romance potential: spicy. Bathroom: horrifying.”
+
+**Kellan’s Rating**: ★★☆☆☆  
+> “Functional ruin. Excellent escape routes. Emotional landmine. She made me sleep next to her *on purpose*.”
+
+---
+
+#### 6. 🪵 Burned Farmhouse – “Final Hideout”
+- **Location**: Possibly tied to Kellan’s past (abandoned family site or old mission location).
+- **Duration**: ~2 days
+- **Events**:
+  - Kellan is injured—Wren steps into protector mode.
+  - The dynamic flips. She’s the shield now.
+  - They plan their final move. One of them might not come back.
+- **Why They Leave**: Final mission, final confrontation, or permanent disappearance.
+
+**Wren’s Rating**: ★★★★☆  
+> “Still cold and half-burned, but he finally let me have the bed. Would cry here again.”
+
+**Kellan’s Rating**: ★★★☆☆  
+> “Exposed but off-grid. No one left alive who remembers this place. She called it 'our rustic trauma cottage.'”
+
+---
+
 ### ACT III
 - Kellan breaks mission protocol
 - Final confrontation (rescue, fake death, or mutual collapse)
@@ -173,7 +485,6 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 - Visual cues: scars, tired shadows, contrast between her colorful chaos and his dark control
 - Ari adds color, humor, and a sense of grounded normalcy from Wren’s “before” world. His presence contrasts Kellan’s tight-lipped control.
 - Symbolic: Ari helps Wren *choose her disguise*, while Kellan tries to strip it away.
-
 
 ---
 
