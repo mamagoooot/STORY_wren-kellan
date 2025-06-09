@@ -402,7 +402,66 @@ In short, his superiors would apply escalating pressure, creating a high-stakes 
 
 So, all these factors create a perfect storm for Kellan. His superiors' growing impatience and potential intervention mean he’s constantly balancing on a knife’s edge. This tension adds urgency to his internal struggle and makes every interaction with Wren more meaningful. It’s not just a slow-burn romance; it’s a ticking time bomb where he has to decide how far he’s willing to go to protect her and what that means for his own future.
 
+---
 
+**Visual Storyboard: Kellan and the World of Shadows**
+
+---
+
+### 1. **Initial Portrait Reference**
+* A clean, serious expression.
+* Short, styled hair.
+* Used to define the base facial structure.
+
+---
+
+### 2. **Sketch Explorations**
+* Pencil sketch portraits with more rugged detail.
+* Slight beard, intense eyes, subtle scar introduction.
+* Served as visual development for mood and aging.
+
+---
+
+### 3. **Nighttime Tactical Alley (Full-body)**
+* Kellan in full warcore black gear.
+* Tousled, damp-look wavy hair.
+* Full beard, visible eyebrow scar.
+* Holding sniper rifle under a fire escape.
+* Moody blue lighting.
+* A cat (Agent Pancake) watching from a window ledge.
+
+---
+
+### 4. **Café Disguise Scene**
+* Kellan in tech-bro style: dark zip-up, t-shirt, sunglasses on head.
+* Sitting at a café with coffee.
+* Scar still visible, hair tousled.
+* Mr. Pancake watching from the window again.
+
+---
+
+### 5. **Ren Faire Reluctance**
+* Kellan at a bustling Renaissance fair.
+* Modern casual wear (gray hoodie).
+* Eyebrow scar visible.
+* Watching the archery contest, unimpressed.
+* Vivid tents, costumed people around him.
+
+---
+
+### 6. **Knife Fight in the Alley**
+* Night fight scene.
+* Kellan battling a younger protégé.
+* Knife combat, intense expressions.
+* Wet cobblestone alley, one overhead light.
+* Hair disheveled, scar prominent.
+
+---
+
+### Ongoing Motif
+* **Agent Pancake** (a cat) appears repeatedly as a quiet observer.
+* Kellan is always aware, even when relaxed.
+* Visual consistency: scar over eyebrow, wavy hair, rugged vibe.
 
 ---
 
