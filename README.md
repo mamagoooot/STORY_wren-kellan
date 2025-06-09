@@ -178,6 +178,232 @@ Ideal for:
 - Create duo visual with Wren (laptop or hallway scene)  
 - Optional: generate action variant (bloodied knuckles, dusk lighting, etc.)
 
+Training:
+He could be viewing her as just an "asset" or a mission to maintain his professional detachment and avoid vulnerability.
+This kind of psychological distancing helps him stay in control and not get emotionally attached. He might also have a background or training that reinforces seeing people as tools or obstacles, which makes it easier for him to justify his actions. Over time, as Wren’s humanity and individuality break through his barriers, he could start experiencing cognitive dissonance, struggling to reconcile his cold exterior with the feelings that start to emerge. This internal conflict can add depth to his character and make his journey from seeing Wren as a target to recognizing her humanity even more compelling.
+From a psychological perspective, Kellan is likely engaging in cognitive disassociation or dehumanization. His brain essentially categorizes Wren as an object or a task rather than a person, which reduces his emotional response to her. This kind of mental compartmentalization is common in people who need to perform tasks that require emotional detachment, like surgeons, soldiers, or operatives.
+
+Neurologically, he might be suppressing the activity in brain regions associated with empathy and emotional connection, like the prefrontal cortex and the limbic system. Instead, he’s engaging the more analytical and task-oriented parts of his brain. This allows him to maintain a cold, calculated demeanor and prevents him from forming emotional bonds.
+
+In simpler terms, he's trained himself to see her as a target or a mission parameter, not a human being with feelings. It’s a psychological shield that helps him do what he thinks needs to be done without the interference of empathy or compassion. As he starts to see her more as a person, those suppressed areas can begin to reactivate, leading to his internal conflict and growth.
+Got it. When Kellan saves her and claims "you're mine," it's likely a mix of his control tendencies and a growing emotional attachment. Psychologically, his protective instinct might be surfacing, showing that he no longer views her purely as a target but as someone he has a personal stake in.
+
+Physiologically, his adrenaline would be pumping from the high-stress situation, heightening his emotions and reactions. His brain is likely experiencing a shift—moving from that detached, mission-oriented mindset to a more protective, possessive one. This shift indicates that he’s starting to blur the lines between his professional role and personal feelings.
+
+For a real person, this would look like someone who’s been emotionally walled off suddenly confronting the reality of caring for someone. His claim that "only he" can save her could stem from a mix of possessiveness and a burgeoning sense of responsibility or attachment. It’s a pivotal moment that signals his internal struggle and the beginning of a deeper connection to Wren, even if he doesn’t fully understand it yet.
+
+When Kellan saves her and claims "you're mine," it's likely a mix of his control tendencies and a growing emotional attachment. Psychologically, his protective instinct might be surfacing, showing that he no longer views her purely as a target but as someone he has a personal stake in.
+
+Physiologically, his adrenaline would be pumping from the high-stress situation, heightening his emotions and reactions. His brain is likely experiencing a shift—moving from that detached, mission-oriented mindset to a more protective, possessive one. This shift indicates that he’s starting to blur the lines between his professional role and personal feelings.
+
+For a real person, this would look like someone who’s been emotionally walled off suddenly confronting the reality of caring for someone. His claim that "only he" can save her could stem from a mix of possessiveness and a burgeoning sense of responsibility or attachment. It’s a pivotal moment that signals his internal struggle and the beginning of a deeper connection to Wren, even if he doesn’t fully understand it yet.
+
+In that moment, Kellan’s words might be a mix of harshness and protectiveness. He might say something like, "You’re mine, and I’m not letting anyone else take you out." His tone could be firm, almost possessive, reflecting his internal confusion and emerging attachment.
+
+He might be brusque and direct, trying to mask the unfamiliar feelings with a layer of control. His body language might be tense, a mix of frustration and urgency, as he grapples with his protective instinct toward her.
+
+He might not fully understand why he’s so determined to keep her alive, and that confusion could come out in abrupt, almost contradictory statements—like telling her to stay alive because she belongs to him, yet not fully admitting to himself why he cares so much. It’s that raw, unfiltered reaction that shows he’s stepping into unfamiliar emotional territory, making the scene feel authentic and intense.
+
+**AGENCY FILE: REDACTED OPERATIVE DOSSIER**
+
+**SUBJECT CODE:** K-72 "KELLAN"
+**CLEARANCE LEVEL:** OMEGA BLACK
+**STATUS:** ACTIVE / UNSTABLE
+**LAST VERIFICATION:** \[REDACTED]
+
+---
+
+**IDENTIFICATION:**
+* ALIAS: KELLAN
+* REAL NAME: \[REDACTED]
+* NATIONALITY: UNKNOWN
+* AGE: EST. 38-42
+* PHYSICAL: 6’1”, lean, black hair, grey eyes. Minimal identifying marks (scar, upper right rib—blade trauma). No tattoos. No biometric trail.
+
+**NOTE:** Subject’s lack of tattoos is consistent with Ghost Protocol operatives. Personal markings are considered biometric liabilities. Tattoos may compromise anonymity during surveillance analysis and contradict cover identities. Ghost-tier agents are instructed to remain entirely feature-neutral.
+
+---
+
+**TRAINING RECORD:**
+* BLACK PROGRAM: Tier 1 Operative
+* SPECIALTIES:
+  * Elimination (covert and field-based)
+  * Surveillance (live and long-range shadowing)
+  * Asset extraction / disposal
+  * Tactical infiltration
+  * Psychological operations (Level 5 Clearance)
+* LANGUAGES: \[REDACTED], \[REDACTED], ASL, Combat Sign
+* PSYCH RATING: **Operative exhibits extreme compartmentalization. No empathy leakage during mission replay.**
+
+**MISSION HISTORY: SELECTED RECORDS**
+**OP: HOLLOW CORD**
+* LOCATION: Bucharest
+* OBJECTIVE: Remove compromised informant, retrieve secure shell drive.
+* OUTCOME: Target eliminated, data recovered. Subject completed mission 12 hours ahead of schedule. No civilian casualties. Local authorities believed incident to be gang-related.
+
+**OP: SABLE WATCH**
+* LOCATION: Casablanca
+* OBJECTIVE: Observe high-value diplomat suspected of trafficking state secrets.
+* OUTCOME: Target neutralized under plausible accident protocol. Surveillance team praised K-72 for discretion and "vanishing presence."
+
+**OP: DELTA THREAD**
+* LOCATION: Undisclosed
+* OBJECTIVE: Internal breach investigation. Locate and remove embedded double-agent.
+* OUTCOME: Subject executed senior analyst with zero collateral. Surveillance logs purged. Records of the breach classified under RAVENLOCK protocol.
+
+**OP: CRESCENT FOG**
+* LOCATION: Istanbul
+* OBJECTIVE: Overwatch on experimental tech drop.
+* OUTCOME: Operation aborted due to exposure. K-72 rerouted extraction without handler support. Escaped with one minor injury. Tech secured. Handler deceased. *Incident began recorded drift in Kellan’s emotional response profile.*
+
+**BEHAVIORAL ANALYSIS:**
+* Operates under pure protocol.
+* Known to improvise only when external chaos interferes with mission flow.
+* Displays disassociation during high-pressure assignments (suspected trauma desensitization).
+* Does not socialize with team. Minimal verbal output. Preferred state: silence.
+
+**FLAGGED BEHAVIORAL DRIFT:**
+* Last 90-day window shows deviation from termination directives.
+* Subject delayed execution of TARGET: WREN \[F-Class Civilian].
+* Surveillance notes indicate repeated proximity, non-lethal engagement, and "protective behaviors."
+* Audio from COM-2732 log:
+
+  * "She’s not done until I say."
+  * "This isn’t about the mission anymore."
+
+**PSYCHOLOGICAL INTERPRETATION:**
+* **Cognitive Dissonance:** Subject is exhibiting dual-mode response: protocol vs. possession.
+* **Attachment Formation:** Subject shows signs of limbic override. Protective instinct engaged where none was conditioned.
+* **Deteriorating Objectivity:** Possible erosion of target classification boundaries. Treats civilian with asset-level strategic value.
+* **Control Response:** Subject remains mission-focused outwardly but internally reframes mission as personal. High risk of off-grid emotional justification.
+
+**RECOMMENDATIONS:**
+* Shadow subject during remaining active window.
+* Prepare contingency extraction. Subject may no longer be neutralizable via standard protocol.
+* Psychological termination recommended if emotional override compromises data integrity.
+
+**HANDLER NOTES:**
+"He was a clean kill. Every time. Until her. She made him hesitate. I don’t care what the profile says—K-72 doesn’t hesitate."
+
+**CLASSIFIED ADDENDUM:**
+Multiple ops requested K-72 by name. Success rate: 100% (pre-WREN protocol).
+Operatives embedded with K-72 cite him as "non-human efficient," "haunted but sharp," and "the kind of man who never stops moving unless he’s making someone else stop breathing."
+Post-Crescent Fog surveillance indicates growing philosophical dissent.
+Quote extracted from audio dump:
+* "We were supposed to be cleaners. We’re architects now. No one told me I’d still be building with bones."
+
+**LAST UPDATE:** Awaiting signal. Subject no longer reporting in. Believed in proximity to TARGET.
+
+**CONTINGENCY LABEL:** GHOST IN FLUX
+
+**END OF FILE**
+
+Kellan’s Psychological Core:
+Background Conditioning:
+Kellan’s black-ops training would have started with breaking down his personal identity. They likely conditioned him to suppress emotional connections and natural empathy, using techniques like isolation, repetitive psychological drills, and operant conditioning. Over time, this would create a mindset where he sees himself as a tool rather than a person, prioritizing mission objectives over personal desires.
+
+Emotional Compartmentalization:
+He’s learned to compartmentalize any emotions that might interfere with his duties. This means he suppresses fear, guilt, or affection to maintain his focus. Any human connection is seen as a liability, and even his own desires are strictly managed to avoid distraction.
+
+Psychological Conditions & Training Impact:
+Psychological Conditions:
+He might be a textbook case of complex PTSD, manifesting as hyper-vigilance, emotional numbness, and a difficulty in forming genuine relationships. His detachment might be accompanied by underlying anxiety or suppressed rage, triggered only in extreme situations.
+
+Training Impact:
+His training would have honed his ability to suppress pain, both physical and emotional. Meditative or focus techniques might allow him to control his physiological responses, like heart rate or adrenaline surges, making him seem almost superhumanly calm under pressure.
+
+The Shift – The Breaking Point:
+Triggering Event:
+Wren’s survival and her unpredictability would be the catalyst. He’s used to controlling every variable, but Wren introduces chaos he can’t predict or eliminate. This would force a shift in his psychological framework.
+
+Cognitive Dissonance:
+He begins to experience cognitive dissonance—his training says she’s a target, but his emerging feelings say she’s something more. His brain struggles to reconcile the mission directive with a newfound, unwanted attachment, creating internal conflict.
+
+Neurological Impact:
+Neurologically, his amygdala (responsible for emotional processing) would begin to override the rigid control of his prefrontal cortex (responsible for executive function). This would lead to unexpected emotional responses—protectiveness, frustration, even longing—that he’s not used to handling.
+
+How He Feels Inside:
+Internal Turmoil:
+Kellan would feel a growing sense of internal chaos. He’s spent years numbing himself to emotions, so re-experiencing them would be jarring, even frightening. The presence of Wren, someone who isn’t afraid to challenge him, would push him to confront feelings he thought he’d buried long ago.
+
+Desire vs. Repression:
+He still has human desires, even if he’s conditioned to ignore them. Being around Wren would reawaken those desires—physical attraction, the need for connection, the urge...
+
+For Kellan to have a believable background as a highly skilled, emotionally conditioned operative, he’d realistically need a significant amount of time to go through extensive training, accumulate field experience, and develop the level of expertise and reputation that makes him a "ghost."
+
+Realistic Age Range:
+He probably started his training in his late teens, maybe around 18 or 19. Intensive black-ops training and conditioning would take several years, including both physical conditioning and psychological reprogramming. By the time he’s operational in the field, he’d likely be in his early to mid-20s.
+
+To gain the level of expertise and the "ghost" status—where he’s a seasoned, almost legendary operative—he’d need another decade or so of field work, honing his skills, and earning that reputation.
+
+Conclusion:
+A logical and realistic age for Kellan would be somewhere in his mid-to-late 30s to early 40s. This gives him enough time to have been thoroughly trained, experienced numerous missions, built a formidable reputation, and also have the emotional and psychological layers that make his internal conflict with Wren so compelling and believable.
+
+Absolutely! A 32 to 35-year-old Kellan is totally believable. By that age, he could have around 15 years of experience if he started young. That’s plenty of time to become an elite operative with a strong reputation, while still maintaining the physical prowess and the edge that makes him dynamic.
+
+This age range also gives him the maturity and depth of experience to make his internal conflicts and psychological evolution richer and more realistic. It strikes a great balance between youth and seasoned experience, making his character both compelling and relatable.
+
+Given Kellan’s psychological conditioning and training, he’d likely be adept at turning his emotions on and off as needed. This kind of emotional regulation would be part of his survival toolkit—a way to blend in, manipulate situations, or execute missions without personal interference.
+
+Emotional On/Off Switch:
+He’d be capable of turning on the charm, appearing friendly or empathetic when it serves a purpose. This would be a strategic tool, allowing him to navigate social environments or gain trust. But once the mission or situation no longer requires it, he’d switch back to his baseline state of detachment.
+
+Background – Family & Friends:
+As a "ghost," he’d likely have cut ties with his family and friends long ago, or been taken into the program in a way that isolated him early on. If he does have any lingering connections, they’d be distant or deeply buried, something he rarely allows himself to think about. This isolation reinforces his ghost-like status, making him harder to track or manipulate through personal ties.
+
+Overall, he’d have a carefully constructed emotional façade, using it only when necessary and otherwise remaining emotionally detached and isolated.
+
+His training would have taught him how to portray empathy convincingly, making him a master at reading people and mimicking emotional responses. However, the deeper he gets into his journey, especially with Wren, he starts to actually feel those emotions. It’s not just an act anymore; he finds himself genuinely experiencing empathy, concern, and other suppressed feelings.
+
+So, initially, it’s more of a well-honed skill. But as the story progresses and his internal walls crack, those feelings become authentic, creating a compelling and complex character arc.
+
+Being a "ghost" in Kellan's context means operating under the radar, but not being completely invisible in everyday life. Here’s how that might work:
+
+Maintaining Ghost Status:
+He’d keep a very low profile—no social media, minimal digital footprint, and likely multiple false identities. He’d do normal tasks like shopping, laundry, and eating out, but always in a way that doesn’t draw attention. He might rotate locations, use cash, or employ subtle disguises to avoid leaving a traceable pattern.
+
+Limited Connections:
+He might have a mentor or a handler he trusts, someone he can go to in extreme situations, but these relationships are sparse and transactional. Coworkers might know him only in a professional context and wouldn’t have personal ties to him.
+
+Day-to-Day Life:
+He’s still human and needs to handle everyday tasks, but he’d do so in a way that’s almost mechanical—no forming bonds with the barista at his favorite café or the clerk at the grocery store. He’d stay under the radar, blending into the background.
+
+Interactions with Wren:
+Showing up for brunch with Wren would be a departure from his usual behavior. It’s a sign of how much she’s affecting him, making him step out of the shadows and into a more "normal" life, even if only briefly. This contrast highlights the tension between his carefully constructed "ghost" existence and the human connections he’s beginning to crave.
+
+In essence, being a ghost means maintaining a facade of normalcy without leaving traces that can be linked back to him. It’s a delicate balancing act, and Wren’s presence in his life starts to tilt that balance.
+
+At the beginning, those glimpses of him—like the mysterious interactions with Mrs. Kaplan or the unnoticed visits to the barista—can serve as subtle, almost humorous hints of his presence. He’s watching from the shadows, ensuring he remains a ghost to everyone except those he’s specifically targeting.
+
+As the story progresses and he becomes more entangled with Wren, his appearances become more overt. He goes from being a silent observer to someone who starts to step into her world, eventually risking his cover by meeting her in public places. By the time he’s joining her for brunch and interacting with her friends, it’s a clear sign of how far he’s come from his isolated, ghostly existence. This slow transition makes the final moments, where he’s openly present in her life, feel earned and impactful.
+
+Inside Kellan’s head, there’s a constant tug-of-war between his mission directives and his emerging personal feelings. At first, he rationalizes these interactions as part of the job. He tells himself he’s just gathering intel, making sure there are no loose ends, and ensuring she isn’t a threat. This is his way of justifying the delay and the growing time he spends observing and interacting with her.
+
+As for the mission’s urgency, it’s likely he was given a clear directive: eliminate the target swiftly. But Kellan, being highly skilled and trusted, might believe he has some leeway. He could be convincing himself that taking a bit more time is justifiable to ensure there’s no collateral damage or overlooked information.
+
+In his mind, every brunch or public interaction is initially framed as a calculated risk—"just this once"—to gather more intel or to keep her under control. But as these encounters become more frequent and he grows attached, he starts struggling with the reality that he’s no longer just prolonging the mission—he’s protecting her.
+
+The longer he delays, the more he risks suspicion from his superiors. They might start questioning why the mission isn’t complete and could either put pressure on him or assign someone else to finish the job. This ticking clock adds tension and forces Kellan to confront his true motivations. Is he really gathering intel, or is he stalling because he can’t bring himself to follow through?
+
+Ultimately, his internal conflict drives the story: a man torn between duty and an unexpected, deepening connection, all while the noose of his mission tightens around them both.
+
+His superiors would be monitoring the situation closely, expecting regular updates or confirmation that the mission is progressing as planned. Initially, they might trust Kellan’s judgment due to his track record, allowing him some flexibility. But as time drags on without results, they’d start to grow impatient and suspicious.
+
+Escalation Tactics:
+They might begin by sending subtle reminders or checking in more frequently. If Kellan’s responses are vague or delayed, they could grow increasingly concerned. They might deploy additional surveillance, send another operative to shadow him, or start questioning his loyalty.
+
+Potential Intervention:
+If they suspect Kellan is compromised or unable to complete the task, they might send a backup enforcer to either assist or take over. This could add another layer of tension, as Kellan would then have to navigate both protecting Wren and dealing with a colleague who’s there to ensure the mission is completed by any means necessary.
+
+Repercussions:
+If Kellan’s delay continues, his superiors might conclude he’s no longer reliable. They could pull him from the field, reassign him, or even label him a liability. This threat would hang over Kellan, adding pressure and forcing him to decide where his true loyalties lie.
+
+In short, his superiors would apply escalating pressure, creating a high-stakes environment where Kellan’s every move and hesitation could have severe consequences.
+
+So, all these factors create a perfect storm for Kellan. His superiors' growing impatience and potential intervention mean he’s constantly balancing on a knife’s edge. This tension adds urgency to his internal struggle and makes every interaction with Wren more meaningful. It’s not just a slow-burn romance; it’s a ticking time bomb where he has to decide how far he’s willing to go to protect her and what that means for his own future.
+
+
+
 ---
 
 ## 🧵 SUPPORTING CHARACTERS
