@@ -24,8 +24,28 @@ A slow-burn, enemies-to-lovers dark romance/thriller set in Israel, blending esp
 
 ### Wren
 - **Age**: 30s  
-- **Profession**: Photojournalist (festivals, fringe events, landscapes, occasionally accidents)  
-- **Personality**: Curious, impulsive, neurodivergent-coded, deeply intuitive, chaotic good energy, surprisingly resilient, clever but non-combatant, clever in weird ways (MacGyver instincts)
+- **Profession**: Photojournalist (festivals, fringe events, landscapes, occasionally accidents)
+- **Base:**
+  - Lives in Israel (olim background), known at Misrad HaPnim for forgetting documents
+- **Pet:**
+  - Mr. or Dr. Pancake, her emotionally intuitive cat
+- **Personality**:
+  - Neurodivergent (quirky, chaotic, clever)
+  - Uses humor and distraction as coping tools
+  - Surprisingly resourceful in emergencies (MacGyver energy)
+  - Has end-of-day anxiety spirals but is also fiercely resilient
+  - Sometimes exasperates even herself
+- **Signature Traits:**
+  - Survived a squirrel attack
+  - Bribes a specific clerk at Misrad HaPnim with chocolate or gossip
+  - Refuses to wear heels on principle
+  - Accidentally makes sniper-cat memes
+- **Wants:**
+  - To reclaim her independence and purpose
+  - To stay alive and outwit her hunter (while also annoying him, a little)
+- **Needs:**
+  - To believe her normal self is enough
+  - To stop downplaying her brilliance with jokes
 - **Backstory Highlights**:
   - Made aliyah in her 20s. Now lives in a cluttered, cozy flat in Israel.
   - Experienced emotional whiplash as a teen: returned from transformative camp experience only to be told a close family member had set himself on fire outside their home and died. The trauma shaped her sensitivity to male rage, false guilt, and emotional withdrawal.
@@ -63,14 +83,13 @@ Add visual reference log for Wren and Kellan character designs
 - Included personality and story notes about visual contrast and character dynamics
 
 ### Wren's Aesthetic Moodboard
-
 This board visually captures the chaos, charm, and quiet depth of Wren. It blends cozy rebellion with unexpected elegance, reflecting her role as a quirky survivor and reluctant heroine in *Run, Little Mouse* and the *Bone Keeper Chronicles*.
 
 **Pinterest Board Link**: [Ash & Ink – Wren Aesthetic](https://www.pinterest.com/gootlife/ash-ink/)
 
 ---
 
-## Core Themes
+#### Core Themes
 
 - **Visual Texture**: Layered fabrics, vintage scarves, messy curls, analog film cameras, old journals.
 - **Mood**: A blend of melancholy and mischief. Half cup of coffee, half cup of danger.
@@ -79,7 +98,7 @@ This board visually captures the chaos, charm, and quiet depth of Wren. It blend
 
 ---
 
-## Style Elements
+#### Style Elements
 
 | Category        | Examples from Board                          |
 |----------------|-----------------------------------------------|
@@ -91,7 +110,7 @@ This board visually captures the chaos, charm, and quiet depth of Wren. It blend
 
 ---
 
-## Interpretive Notes
+#### Interpretive Notes
 
 Wren’s aesthetic isn’t “designed.” It’s accumulated. Every item in her space tells a story—often literally labeled, folded, or pinned. Her wardrobe looks like it could be hiding secrets in the lining. Her living space smells like coffee, dust, and lavender, and looks like a storm passed through—but on purpose.
 
@@ -99,7 +118,7 @@ She's not a trend. She's a *tale*.
 
 ---
 
-## Use in Storytelling
+#### Use in Storytelling
 
 This visual reference informs:
 - Set design for her apartment or work studio.
@@ -107,10 +126,26 @@ This visual reference informs:
 - Costume and disguise choices in their on-the-run scenes.
 - The emotional texture of quiet moments (her scrolling through old photos, wrapping herself in her favorite scarf, sketching outfits in the margins of a spy file...).
 
-### Kellan
+### 🕶️ Kellan – The Cold Hunter
 - **Age**: 30s–40s  
-- **Profession**: Assassin / Shadow operative (Ghost Division)  
-- **Personality**: Controlled, repressed, tactical genius with sudden emotional sharpness when pushed, Blends in, prefers silence, lethal but not cruel
+- **Profession**: Shadow operative (Ghost Division). Trained assassin, freelance enforcer
+- **Base:** Nomadic, but recently anchored in Israel due to a mission
+- **Personality**: Controlled, calculating, silent until provoked
+  - Dry sense of humor only revealed under duress
+  - Has a rigid internal rulebook, mostly for survival
+  - Bored with his usual work — Wren disrupts his rhythm
+  - Ruthless, but not cruel. Dispassionate — until she scrambles that.
+- **Signature Traits:**
+  - Watches Wren like a puzzle he’s almost afraid to solve
+  - Carries multiple knives but prefers silence
+  - Was obsessed with spy movies as a kid
+  - Feels things more deeply than he lets on — until it erupts
+- **Wants:**
+  - To finish the mission and disappear
+  - To understand why he can’t walk away
+- **Needs:**
+  - To make peace with the person he was before he became a weapon
+  - To accept that someone like Wren might actually see him — and not flinch
 - **Backstory Highlights**:
   - Normal childhood with sisters; obsessed with spy culture.
   - Recruited young and slowly shaped into a killer—without realizing until it was too late.
@@ -119,18 +154,18 @@ This visual reference informs:
 - **Dynamic with Wren**:
   - Starts as a mission. Becomes confusion. Then obsession. Then protection. Then... he’s the one who cracks.
 
-## Kellan – Final Character Visual Reference (Portrait)
+### Kellan – Final Character Visual Reference (Portrait)
 **Version**: Kellan v6 – "Ghost Sniper, Street-Ready"
 **Use Case**: Visual alignment for character modeling, art reference, disguise logic, and scene framing.
-### 🎯 Key Attributes
+#### 🎯 Key Attributes
 - **Posture**: Upright, arms crossed — projects guarded dominance without overcompensation
 - **Clothing**: Charcoal bomber jacket, black crew-neck shirt — nondescript, practical, tactical
-### 📸 Image Notes
+#### 📸 Image Notes
 - Shot against a muted gray backdrop to enhance face without distraction
 - Lighting is diffuse and directional, showcasing facial structure and eye definition
 - Purposefully avoids dramatic shadow to maintain realism
 - Visual style fits within both espionage thriller and grounded noir aesthetics
-### 🔍 Intended Character Impression
+#### 🔍 Intended Character Impression
 > “Someone who doesn’t need to draw attention to control a room. You forget what he looks like five minutes later—but not the way he made you feel.”
 Ideal for:
 - Surveillance scenes
@@ -148,7 +183,6 @@ Ideal for:
 ## 🧵 SUPPORTING CHARACTERS
 
 ### Ari
-
 - Wren’s best friend.
 - Gay fashion designer with a flair for drama, creativity, and disguise.
 - Ex-Haredi from Bnei Brak.
@@ -190,15 +224,11 @@ It smells like old books, gun oil, and something burning faintly in the walls.
 The light doesn’t fill this place—it slants.  
 Everything has a purpose. Everything has a story it refuses to tell.
 
----
-
 #### Entryway
 - Matte black metal door with old boot scuffs.
 - One key on the hook. Unlabeled.
 - Long narrow tray for two precisely aligned shoes.
 - Empty coat rack.
-
----
 
 #### Living Room
 - Low-profile charcoal gray sofa. Firm. No throw pillows.
@@ -207,8 +237,6 @@ Everything has a purpose. Everything has a story it refuses to tell.
 - TV: unplugged. HDMI coiled neatly.
 - Wall: black-and-white photo (could be surveillance).
 - Bookshelf: minimal. Blank journals, sand timer, frozen chessboard mid-match.
-
----
 
 #### Kitchen
 - Matte black cabinets. Smudge-free.
@@ -225,8 +253,6 @@ Everything has a purpose. Everything has a story it refuses to tell.
   - One unlabeled vial
 - Handmade ceramic mug (chipped). Never washed by anyone else.
 
----
-
 #### Bedroom
 - Bed: ground-level. Tightly folded military blanket.
 - Headboard: possibly reclaimed synagogue bench or confession booth panel.
@@ -237,8 +263,6 @@ Everything has a purpose. Everything has a story it refuses to tell.
   - Broken chain, pendant inside lining
 - One shirt: crisp, hanging outside closet. Smells like cedar and smoke.
 
----
-
 #### Bathroom
 - Stark. Clean. Mirror cracked lower-right.
 - Black square soap. Unlabeled shampoo.
@@ -247,8 +271,6 @@ Everything has a purpose. Everything has a story it refuses to tell.
   - Backup SIMs
   - List of names. Most crossed out.
 
----
-
 #### The Other Door
 Painted matte navy. Doesn’t match.
 **Inside (if Wren finds it)**:
@@ -256,8 +278,6 @@ Painted matte navy. Doesn’t match.
 - Shelves: trackers, burners, binders, one labeled *Crescent Eyes*.
 - A single note tucked in the back:  
   *“She’s not what they said she is.”*
-
----
 
 #### Style Keywords
 - Shadowplay  
@@ -522,6 +542,88 @@ Wren invites him to brunch. Her friends flirt and interrogate. Kellan considers 
 #### CHAPTER 5 – "Glass and Steel"
 A sniper takes a shot. Kellan shields her. Patches the wound with disturbing calm. She realizes he’s not cosplay. She runs. He catches her.
 
+### “The Shot”
+**Setting:** A quiet weekday, late afternoon. Wren’s wandering through a sculpture garden outside a city museum, following a strange assignment from a festival publication. She’s halfway through a mini shoot of some giant abstract metal thing that looks like a warped fork when Kellan shows up again.
+
+As usual. Silent. Watching.
+“You keep popping up,” she mutters, glancing over her shoulder, not totally bothered. “You some kind of freelance bodyguard now?”
+Kellan doesn’t answer.
+She sighs and starts adjusting her lens.
+“You ever think about doing a headshot session? Might be good for your dating profile. Or, like, a villain origin poster.”
+He still doesn’t speak. Just scans the area. Wind shifts. Subtle.
+Too quiet.
+A glint catches in the corner of his vision—sun off a rifle scope.
+And that’s when it happens.
+CRACK.
+A sharp whip of sound tears the silence.
+Wren gasps. Staggers. Blood. Shoulder. She blinks. Confused.
+Then—
+Kellan grabs her. Hard. Swift. Pushes her down behind a thick concrete structure. Covers her with his body.
+“Stay still.”
+His voice is sharp now. Controlled. No edge of fear. No panic. Just tactical clarity.
+She’s gasping, trying to figure out what the hell just happened, what hurts, what that sound was—
+And he’s tearing open her sleeve like this is a thing he does.
+“Through and through,” he mutters. “Missed bone. Lucky.”
+She stares at him.
+“You—what—was that a gun? I got shot?!”
+“Yes.”
+“Is this—are you—why aren’t you freaking out?!”
+“Because it won’t help.”
+He presses gauze (from where???) to her shoulder, applying pressure.
+His movements are practiced. Efficient. Fast.
+And that’s when she sees him.
+Not the quiet, weird hot guy with bad shirts and assassin LARP vibes.
+The real him. The man behind the eyes.
+“Wait,” she breathes.
+“You’re not… you’re not kidding. You’re not broken, or lost, or pretending. You’re—”
+He meets her gaze. No emotion. No denial.
+“I told you. If I wanted you dead, you’d be cold already.”
+“Holy shit,” she whispers.
+Everything slides into place. Every weird moment. Every "coincidence." The photos. The coffee shop. The gun.
+Lord Zorro is real. And he’s not trying to be hot. He’s trying to end her.
+And suddenly?
+She bolts.
+Blood still leaking, vision blurry, panic taking over.
+“Wren—stop. You’ll pass out.”
+But she’s up, stumbling, crashing through the bushes and garden exhibits like an off-brand Lara Croft. She doesn’t care. She just needs to get away.
+
+### The Chase – Inside His Head
+He moves fast. Barefoot instincts, mind sharp as glass. She’s fifty yards ahead, stumbling through the trees bordering the sculpture garden. Blood trail easy to follow.
+Her steps are erratic. Fear-drunk. But still moving.
+And he’s right behind her.
+Why am I chasing her?
+She’s wounded. She’s a civilian. She was never supposed to make it this far.
+I had the files. The laptop. The camera. It was clean. It was done.
+She was background noise. A face in the wrong place. I should’ve finished it at the tent.
+But I didn’t.
+And now someone else tried.
+A sniper.
+Mine? Someone off-book? A clean-up order?
+His jaw tightens as he ducks under a low branch, eyes locked on the flash of Wren’s jacket between the trees.
+No. No. Not like this.
+You don’t get to take my target.
+She was mine.
+I watched her. I tracked her. I studied every stupid little habit—the way she talks to her camera, how she whistles off-key when she’s nervous, how she calls her cat “Dr. Pancake” and hides junk food behind the canned beans.
+You think you can just take her from me?
+No.
+If she dies, it’s when I say. If she disappears, it’s because I made her disappear.
+He watches her trip again, grab onto a branch, keep going.
+She’s tough. Too tough for someone who still thinks Ren Faire guys with swords are assassins. Too tough for someone who bakes sympathy pies for people who stare too much.
+I should’ve ended it. Weeks ago.
+But now she’s running from me like I’m not the one who saved her life.
+And that pisses me off more than it should.
+He cuts left, flanks around a boulder. She’s slowing. Knees buckling.
+He’s on her in three steps. Catches her before she hits the ground.
+She’s burning up. Pulse hammering. Blood everywhere.
+She’s not scared enough to go limp. Still fighting. Even now.
+He pins her with one arm, yanks off his jacket, presses it to her shoulder.
+She stares up at him. Eyes wide. Understanding, finally.
+“You... you’re him.”
+He doesn’t respond.
+But inside?
+Yeah. I’m him.
+And you’re mine until I say otherwise.
+
 **SafeHouse 0. 📍 Initial Incident**
 - **Event**: Wren is shot.
 - **Location**: Unknown urban area.
@@ -547,6 +649,64 @@ Wren wakes in a safehouse. Kellan tells her she’s still a mission. He hasn’t
 **Kellan’s Rating**: ★★★★☆  
 > “Clean. Secure. Strategically located. Would’ve been five stars until she reorganized my knives by color.”
 
+### The Safehouse
+Wren wakes, her shoulder throbbing and stiff. She knows, instantly, it’s not a hospital. The window has bars. The air smells wrong—sterile, but not clean. Like a place meant to be wiped down fast. There’s water on the nightstand. A folded towel. Gauze. Her camera bag—untouched, maybe—but it’s there.
+Kellan stands just inside the doorway. Arms crossed.
+“You’re awake.”
+She blinks at him. Tries to sit up. Winces hard.
+“You... saved me.”
+“You were shot.”
+“No sh*t.”
+He steps forward, hands empty, movements deliberate.
+“You passed out before the bleeding stopped. If I hadn’t closed the wound, you’d be dead.”
+“So… what? I’m not dead because you’re feeling generous?”
+“No.”
+He stops at the edge of the bed. Calm. Measured.
+“You’re not dead because someone else pulled the trigger. And I don’t like that.”
+She stares at him, heartbeat climbing again.
+“You still planning to kill me?”
+“That depends.”
+“On what?”
+“Whether anyone else tries again.”
+“What the hell does that mean?”
+“It means you were my mission. Now you’re a liability. And I’m deciding what to do with you.”
+Wren pulls the blanket around her tighter, like it’s armor. It isn’t. She knows that now.
+“You’re insane.”
+He doesn’t answer.
+That night, she doesn’t sleep.
+
+### The Delay
+**Setting:**
+Same safehouse. Kellan stands in the hallway outside the room. Door open behind him. Wren's quiet. Not asleep. Probably planning something stupid. Again.
+He checks his watch. It’s been hours.
+The phone sits on the counter.
+Cold. Waiting.
+One number to dial. One sentence to say: Target neutralized.
+But he hasn’t.
+Not yet.
+She’s not trained. Not connected. No handler, no files, no backup.
+She’s an accident. A glitch. A face in the wrong frame. The kind of mistake that gets buried without headlines.
+I’ve cleaned up bigger messes for less.
+So why the hell haven’t I done it?
+He wipes down the knife. Not because it’s dirty. Just routine. Hands need something to do.
+She’s not the first civilian I’ve been sent to erase. But she’s the first one who talks to stray cats and offers me her fries without blinking.
+She thinks I’m in therapy. That I play assassin like it’s cosplay. That I watch ninja movies and journal about my trauma.
+He closes his eyes. Briefly. One breath. In. Out.
+She offered to take me shopping.
+He almost laughs. Almost.
+He sits. Phone in hand. Thumb hovers over the contact.
+Protocol says the moment a target sees you—really sees you—you eliminate the threat.
+And she saw me. Back in the garden. The second I covered her wound, she looked at me like she knew. And she ran.
+And I chased her.
+Not because of the mission. Because someone else tried to kill her. And I didn’t like that.
+He sets the phone down. Doesn’t call.
+She was mine. That’s why.
+And if anyone’s going to end this, it’s going to be me. On my terms. My timing.
+Because the second someone else pulled the trigger, they took that choice from me. And I don’t let anyone take what’s mine.
+He glances back at the open doorway. She hasn’t moved. But she’s listening. He knows.
+This is a mistake. I know it is.
+But I’m not bored anymore.
+
 ---
 
 #### CHAPTER 7 – "Inventory"
@@ -555,6 +715,49 @@ Wren explores the safehouse. Finds scissors. Tries to stab him. Trips. Falls on 
 **Wren:** “Weird first kiss setup.”  
 **Kellan:** “You’re ruining my life.”  
 **Wren:** “You’re welcome.”
+
+**Setting:** Same safehouse, next day. Quiet tension builds.
+
+Wren explores. Slowly. Her shoulder aches like hell, but she keeps moving.
+
+The kitchen’s empty except for protein bars, sterile utensils, bottled water. The bathroom has no mirror. Every corner has the sense of temporary occupation—a place meant to be used, not lived in.
+
+She finds a drawer with medical tape, gauze, scissors. She pockets the scissors.
+
+She finds a fire extinguisher. Marks where it hangs.
+
+She opens her camera bag. The photos are gone. Every card wiped. Every backup corrupted.
+
+He’s sitting at the small table when she comes out of the room. Reading. Like he has all the time in the world.
+
+“Looking for something?”
+
+“Privacy,” she snaps.
+
+He nods once. Doesn’t move.
+She stands there a long second before sitting across from him. The silence stretches.
+
+“So. Are you going to tell me your name?”
+
+“No.”
+
+“Fine. I’ll call you Lord Zorro.”
+
+That earns her the smallest flicker of a smile. Not kind. Just… amused.
+
+“You don’t get to name the man who’s deciding whether to put a bullet in your head.”
+
+“Maybe I name you to make it easier when I stab you with my eyebrow scissors in your sleep.”
+
+“You found those fast.”
+
+He closes the book.
+
+“Don’t run. Not yet. You’ll tear the stitches.”
+
+She doesn’t answer.
+But she watches him. This time—really watches.
+She needs to learn him before he finishes learning her.
 
 **SafeHouse 2. 🏞️ Remote Cabin – “Snowed-In & Tense”**
 - **Location**: Off-grid forest or mountain hideout.
@@ -575,11 +778,220 @@ Wren explores the safehouse. Finds scissors. Tries to stab him. Trips. Falls on 
 He lets her run. For fun. Then the agency sends a kill order. He realizes they’re going to take *his* target. Not acceptable.
 He intercepts the hit team. Kills them. She sees everything. Blood, violence, the truth.
 
+Setting: Safehouse outskirts. Forest edge. Dusk bleeding into dark.
+
+(Kellan lets her escape to test her. Then gets a message: she’s been flagged for immediate termination. Another team is inbound. He realizes he gave the agency too much credit—they’re going to steal his target.
+
+Kellan (internal): “She was mine. That’s why. And if anyone’s going to end this, it’s going to be me.”
+
+He intercepts the team. Kills them. She sees it all. Bleeding, stunned, she starts to understand who he really is.)
+
+Wren runs.
+
+Fast, but sloppy. One hand clutched over her shoulder, the other yanking branches out of her way. Her boots are untied. She doesn’t care.
+
+She doesn’t know how long she has before he notices. She doesn't even know if he let her go.
+
+All she knows is: she needs space. Time. A signal. A chance to think.
+
+Elsewhere.
+
+Kellan stands near the open back door. Calm. Motionless.
+
+He hasn’t moved in ten minutes.
+
+He saw her leave.
+Saw the way she paused at the threshold like she thought he might stop her.
+Didn’t.
+
+Let her run. Let her feel the air in her lungs. Let her believe she has options.
+
+She needs to learn the shape of the world now. It’s smaller than she thinks.
+
+He walks back inside. His jacket still hangs by the door.
+
+He pulls out the burner. Powers it on.
+
+Message received.
+
+[EXECUTE PROTOCOL: ASSET REDUNDANT. WINDOW CLOSED.]
+
+He stares at the screen.
+
+The words don’t change.
+
+Redundant?
+
+I haven’t even called her in yet.
+
+They moved without me.
+
+He scrolls down. Photo attached.
+Wren. In the garden. Bleeding. Face clear.
+
+Not just flagged.
+
+Tagged.
+Tracked.
+Marked.
+
+They sent another team.
+
+They’re not waiting anymore.
+
+They’ll clean her up. Quiet. Fast. I’m not needed.
+
+His stomach turns—but his hands don’t shake.
+
+I should’ve known. I gave them too much credit. Thought I had time. I thought they’d wait for the call.
+
+They never needed me to finish it. Just to stall it long enough to triangulate.
+
+He drops the phone onto the table.
+
+They’re going to steal her.
+
+And I... I let her run.
+
+He’s out the door before the burner stops buzzing.
+
+In the woods.
+
+Wren keeps moving, but her legs are giving out. Her breath stutters. She hears something—branches snapping—not close. Not far.
+
+She reaches a gravel path. A road maybe.
+
+And then—
+
+Flashlight. Not his.
+
+Two men. Tactical gear. Masks. Silent hand signals.
+
+She doesn’t scream. But she stumbles back. One lifts a rifle. Not to shoot. To block.
+
+“Hey—HEY—don’t touch me—”
+
+Hands grab her arms. Too strong. Too fast.
+
+And then—
+
+Kellan hits the first one like a black wave.
+
+No warning. No hesitation. Just impact.
+
+She falls to the ground as the second man spins, tries to aim—
+Kellan knocks the gun sideways, cracks him across the jaw.
+
+No names. No questions.
+
+Just violence.
+
+Clean. Swift.
+
+The second body hits the dirt.
+
+Kellan turns to her. Breathing hard, face unreadable.
+
+“You don’t get to run again.”
+
+“What—who—who were they?!”
+
+“Not me.”
+
+She flinches as he grabs her by the elbow. Pulls her up.
+
+“Next time, they won’t make a sound.”
+
+She’s too stunned to fight back.
+
+He pulls her close. Not cruel. Not soft. Just final.
+
+“If someone’s going to end this—it’s me.”
+
 ---
 
 #### CHAPTER 9 – "The Only Safe Place Is in His Hands (And That’s the Problem)"
 He patches her up again. She asks why he’s saving her. He says it’s not mercy. It’s control.  
 She hates how safe he makes her feel.
+
+"If I kiss you, Wren, it won’t be soft. It won’t be safe. And you’ll never walk away from it without knowing who I really am."
+
+She wants him to. He doesn’t. Not yet.)
+
+Setting: Safehouse. Night. Wren sits curled on the couch, wrapped in a blanket she doesn't remember grabbing. Her shoulder’s bandaged again. Her mind? Not so much.
+
+Kellan stands nearby, checking his weapons. Methodical. Distant.
+
+She watches him reload. Check magazines. Dismantle a scope.
+
+He’s calm. Too calm. Like this is dinner prep, not fallout from two dead men in the forest.
+
+She swallows.
+
+“How long do I have?”
+
+He doesn’t look up.
+
+“Until someone smarter shows up.”
+
+“Great. Love that.”
+
+“They won’t stop. You’re a leak now. Doesn’t matter what you saw. Just that you saw it.”
+
+“And you’re just… helping me?”
+
+“No.”
+
+He looks at her. Finally.
+
+“I’m keeping you alive. Until I’m ready to decide what to do with you.”
+
+She feels her chest tighten. Not from fear. From something heavier.
+
+She should hate him.
+He almost killed her. He still might. He hasn’t denied it once.
+But he’s also the only reason she’s breathing. He bled for her. Broke protocol for her. Stared down a sniper and didn’t flinch.
+
+He’s the monster in the woods. But when worse ones came? He tore them apart.
+
+And when he grabbed her back there—his hand gripping her arm, voice in her ear, breath hot against her cheek—
+
+She felt it.
+
+Not fear.
+
+Heat.
+
+He steps closer now. Silent. Barefoot. Hands free.
+
+He kneels in front of her. Checks the gauze. Doesn’t ask. Just lifts her arm gently. Peels the wrap back. Inspects. Rewraps.
+
+Professional. Clinical. Too close.
+
+She feels it again—her pulse picking up, her breathing hitching just slightly.
+
+He notices.
+
+Of course he does.
+
+His eyes flick to hers. Quiet. Steady.
+
+“You’re scared.”
+
+She nods.
+
+He leans just a little closer.
+
+“Good.”
+
+And then—he’s gone. Back across the room. Like nothing happened.
+
+She exhales. Realizes she’s shaking.
+
+Not because he touched her.
+Because she didn’t want him to stop.
+
+And that scares her more than anything.
 
 ---
 
@@ -616,6 +1028,105 @@ She photographs him. He hates it. He’s not meant to exist. He takes her camera
 **Kellan’s Rating**: ★☆☆☆☆  
 > “Too many windows. Too much velvet. He tried to style me. I was offered a feathered scarf. No.”
 
+Kellan: “You don’t get to keep pieces of me.”
+Wren: “I’m not keeping. I’m looking.”
+
+He takes the camera. Looks through her shots. Then takes a photo of her. One click. No warning.
+
+Wren: "Why’d you do that?"
+Kellan: “Now we’re even.”)
+
+Setting:
+Late night. The safehouse is quiet. Wren can’t sleep. Her shoulder aches. The air’s too still. Kellan’s nearby—sitting at the table, knife in one hand, polishing it with an old shirt.
+
+She watches him from the doorway.
+
+He hasn’t said a word in over an hour.
+
+She quietly opens her bag. Takes out her camera.
+
+This is how she sees things. People. Truth.
+Through the lens, the noise goes quiet. She can frame chaos into something still. Something real.
+
+She adjusts the settings. Quiet as a breath.
+
+Raises it.
+
+Points it at him.
+
+No flash. No shutter. Not yet.
+
+Just… looking.
+
+He turns his head. Slowly.
+
+Sees the camera.
+
+And goes very still.
+
+“Put it down,” he says. Low. Flat.
+
+“Why?” she asks, voice barely above a whisper.
+
+“You don’t get to keep pieces of me.”
+
+“I’m not keeping. I’m looking.”
+
+Silence stretches between them. He doesn’t move.
+
+He’s going to break me, she thinks.
+This is it. The moment. I overstepped.
+
+But then—
+
+He stands. Crosses the room.
+
+Not fast. Not slow. Just... inevitable.
+
+He stops in front of her.
+
+And reaches out.
+
+Takes the camera from her hands.
+
+Holds it. Looks at it. Flips through her shots.
+
+Clicks back through the folder.
+
+Photos of street performers. A grandmother selling oranges. Her own bare feet on cobblestones. The morning light through cracked glass.
+
+He pauses.
+
+Turns the camera on her.
+
+Raises it.
+
+And takes the photo.
+
+No words. No warning. Just the click.
+
+She startles.
+
+“Why’d you do that?” she whispers.
+
+He hands it back.
+
+“Now we’re even.”
+
+He walks away.
+
+She stares down at the photo he took.
+
+Her face.
+
+Wide-eyed. Vulnerable.
+
+Seen.
+
+She wanted to capture him.
+Instead, he captured her.
+And that might be worse.
+
 ---
 
 #### CHAPTER 11 – "What Did I See?"
@@ -623,6 +1134,89 @@ She demands answers.
 
 **Wren:** “What the f*** did I see?”  
 **Kellan:** “A man who doesn’t exist. And you proved he does.”
+Wren: "What the f*** did I see?"
+Kellan: "A face. A man who’s not supposed to be alive. And now you’re the proof."
+
+She understands. This won’t stop. Ever.)
+
+Setting:
+Abandoned motel off a highway. One working lamp. The AC rattles like a dying animal. They’ve been hiding for 12 hours. Wren’s sore, quiet, curled in the chair like her body doesn’t fit anymore.
+
+Kellan stands near the door. Watching. Always watching.
+
+“You’re not sleeping,” he says.
+
+“No sh*t, Sherlock.”
+
+Silence.
+
+She doesn’t look at him. Just stares at the floor. Then:
+
+“Tell me.”
+
+“Tell you what.”
+
+“You know what.”
+
+He says nothing.
+
+“You’ve turned my life into a death trap. Every time I think I can breathe, someone tries to kill me. And I keep thinking—I keep hoping—it’s some kind of mistake. That this’ll stop. That it’s fixable.”
+(beat)
+“But it’s not. And I don’t even know why.”
+
+She looks at him now. Really looks.
+
+“So tell me. What the f*** did I see?”
+
+He exhales slowly. Doesn't flinch.
+
+“A face.”
+
+“What?”
+
+“That’s what you saw. A face. In the wrong place, at the wrong time.”
+
+“That’s it?”
+
+“That’s everything.”
+
+He walks over. Sits across from her. Elbows on knees.
+
+“The man you photographed wasn’t supposed to be there. Wasn’t supposed to be alive. Wasn’t supposed to be seen.”
+
+“Why?”
+
+“Because he’s dead. On record. Five years ago. Clean slate. No trace. Until you caught him standing in front of a food truck shaped like a dragon, holding a burner phone and breaking national security.”
+
+She stares. Speechless.
+
+“You didn’t just take a picture. You exposed a ghost. A real one.”
+
+“So now I’m the problem.”
+
+“Now you’re the proof.”
+
+“But I deleted it.”
+
+“Doesn’t matter. You saw it. You remember.”
+
+“And that’s enough to die for?”
+
+“Yes.”
+
+She sits back, numb.
+
+It wasn’t a conspiracy.
+It wasn’t an accident.
+She saw something real. And now she’s not allowed to live with it.
+
+She’s not Wren the quirky photographer anymore. She’s Wren the threat.
+
+She feels the weight in her chest settle differently now.
+
+Not fear.
+
+Resolve.
 
 ---
 
@@ -632,10 +1226,172 @@ She tries to stab him. Trips again. Lands on him.
 **Wren:** “That’s not a gun, is it?”  
 **Kellan:** (groaning) “Kill me now.”
 
+Wren: “That’s not a gun, is it?”
+Kellan (groaning): “You are actively destroying my life.”)
+
+Setting: Another safehouse. Single room. Twin bed. Concrete floor. Nowhere to hide.
+
+Wren's had it.
+
+Her shoulder hurts. Her favorite hoodie got blood on it. She hasn’t had coffee in twenty-four hours and she’s officially snapped.
+
+She creeps up behind Kellan with her secret weapon.
+
+The eyebrow scissors.
+
+She raises them like a dagger.
+Soft footsteps. No noise. This is it.
+
+She lunges—
+
+And immediately trips over her untied shoelace.
+
+Crashes into his back like a rogue raccoon.
+
+“AH—”
+
+He turns just in time to catch her.
+
+And the scissors.
+
+They tumble to the floor. Hard.
+
+Wren ends up sprawled across his chest, elbow in his ribs, face way too close.
+
+Kellan groans.
+
+“Are you serious.”
+
+She scrambles, tries to push off him.
+
+“You moved!”
+
+“I was literally standing still.”
+
+“You dodged! No one expects a dodge at a time like that!”
+
+“You tried to stab me with manicure scissors.”
+
+“They’re multipurpose!”
+
+They roll. He pins her down, arms locked. Still careful of her shoulder. She’s beneath him now, hair splayed, cheeks flushed.
+
+The scissors skid across the floor and hit the wall with a soft ting.
+
+Silence.
+
+They’re breathing hard. Too hard.
+
+Her thigh is hooked over his leg. His hands are braced beside her head.
+
+She blinks up at him.
+
+“...This is a weird first kiss setup.”
+
+He stares at her.
+Doesn’t move. Doesn’t smile.
+But something in his jaw tightens. Something gives.
+
+“You are the most exhausting person I’ve ever met.”
+
+“Good. I hope I ruin your whole assassin aesthetic.”
+
+His eyes flick down to her mouth.
+
+And back up.
+
+He shifts his weight—slowly, deliberately—then pulls himself off her, one controlled muscle at a time.
+
+“Put your shoes on,” he says. “You’re a liability.”
+
+“You’re a coward.”
+
+He pauses. Doesn’t look back.
+
+“If I wasn’t, you’d already be dead.”
+
+Or something else entirely.
+
 ---
 
 #### CHAPTER 13 – "This Is a Dumb Hiding Place and I Hate Everything"
 They hide in a dryer. She ends up on his lap. Again.
+
+Wren: “Oh. That’s not a gun, is it?”
+Kellan (dying inside): “Kill me now.”
+
+He’s losing control. She’s a menace. He’s obsessed. It’s mutual.)
+
+Setting: A botched extraction. Wrong turn. Wrong building.
+Now they're crammed inside a commercial dryer in a rundown laundromat.
+Because Wren said it was a “genius hiding spot” and Kellan, against every instinct in his tactical-trained brain, followed her in.
+
+It’s dark. Cramped.
+She’s half on his lap, one foot shoved into the wall of the dryer, one arm braced against his shoulder.
+
+He’s trying not to breathe. Not to move.
+Not to notice the fact that her ass is squarely in his lap.
+
+“You’re sweating,” she whispers.
+
+“You’re on my face.”
+
+“It’s called survival.”
+
+“It’s called idiotic.”
+
+She shifts. Accidentally grinds her hip into him.
+
+He grits his teeth so hard he might break a molar.
+
+She’s a disaster. A loud, impulsive, bright-colored hurricane wrapped in a body that will not stay where it belongs.
+This is a war zone. His job is to kill. To disappear.
+Not to sit inside an appliance with a warm, squirming, bandaged woman who just tried to stab him with beauty tools.
+
+She whispers again.
+
+“What if they open it?”
+
+“Then you’ll finally get your wish and die somewhere ridiculous.”
+
+“You’re tense.”
+
+“You’re on my—*”
+
+He stops.
+
+She pauses.
+
+“Oh.”
+(beat)
+“That’s not a gun, is it.”
+
+He doesn’t answer.
+
+Kill her. Kill her. Kill her.
+God, don’t kill her.
+
+She shifts again. Accidentally.
+
+He groans under his breath—a rough, unfiltered sound that wasn’t meant to escape.
+
+“You okay?” she says, mock-innocent.
+
+“You are actively destroying my life,” he growls.
+
+“With my thighs?”
+
+“With your existence.”
+
+They go still as footsteps echo outside the laundromat. Voices. Close. Laughing. Not a threat yet, but too close to breathe easy.
+
+Wren softens. Just a little.
+
+And that’s worse.
+
+Because now she’s quiet and pressed to him and her breath is against his throat and he can smell her shampoo and he hates this. He hates her.
+
+He’s going to burn the world just to get this woman out of his bloodstream.
 
 ---
 
@@ -655,6 +1411,102 @@ He pins her to the wall. Doesn’t kiss her. Almost does. Regrets everything.
 **Kellan’s Rating**: ★★☆☆☆  
 > “Functional ruin. Excellent escape routes. Emotional landmine. She made me sleep next to her *on purpose*.”
 
+Kellan: "You act like this doesn’t affect you. Like you don’t feel it."
+Wren: “Feel what, exactly?”
+Kellan: "That I was supposed to kill you. And now you're in my space, in my bed, in my f***ing head.")
+
+Setting: Back at a new safehouse. One room, flickering overhead light, a mattress on the floor, and not much else. Wren is pacing. Kellan sits in the only chair, arms crossed, jaw locked.
+
+They haven’t spoken since the dryer incident.
+
+She keeps looking at him sideways. Half amused, half suspicious.
+
+“Okay,” she says finally. “Are you… okay?”
+
+He doesn’t look at her.
+
+“You’ve been weird since the dryer.”
+
+Still no response.
+
+She folds her arms.
+
+“Was it the proximity thing? Or the part where I got a little handsy?”
+
+Nothing.
+
+“You know, for a guy trained to kill with a paperclip, you’re shockingly fragile.”
+
+His eyes lift. Slowly.
+
+“Wren. Stop talking.”
+
+“Why? You’re not gonna—”
+
+He stands.
+
+Fast. Quiet. Dangerous.
+
+She steps back instinctively.
+
+He follows. No rush. Just presence.
+
+She backs into the wall. Barely a foot of space left.
+
+He closes it.
+
+One hand beside her head. The other at her waist—not touching. Just hovering.
+
+His voice drops, smooth and quiet like a loaded chamber.
+
+“You don’t get to play this game.”
+
+“What game?” she breathes.
+
+“The one where you act like this doesn’t affect you. Like you don’t feel it.”
+
+She swallows.
+
+“Feel what, exactly?”
+
+His eyes flick down to her mouth. Back up.
+
+He steps even closer.
+
+“The fact that I was supposed to kill you.”
+
+“Kinda hard to forget.”
+
+“And now you're in my space, in my bed, in my f***ing head.”
+
+She goes still.
+
+Oh.
+
+He leans in, just a breath from her ear.
+
+“You think I’m holding back because I’m gentle?”
+
+“No.”
+
+“Good.”
+
+Because he’s not.
+
+He pulls back just enough to look her in the eye.
+
+“If I kiss you, Wren, it won’t be soft. It won’t be safe. And you’ll never walk away from it without knowing who I really am.”
+
+She doesn’t move.
+
+He doesn’t either.
+
+They stay like that.
+
+Close.
+Too close.
+One word away from a fire.
+
 ---
 
 **SafeHouse 6. 🪵 Burned Farmhouse – “Final Hideout”**
@@ -670,6 +1522,120 @@ He pins her to the wall. Doesn’t kiss her. Almost does. Regrets everything.
 **Kellan’s Rating**: ★★★☆☆  
 > “Exposed but off-grid. No one left alive who remembers this place. She called it 'our rustic trauma cottage.'”
 
+She’s captured. He rescues her. Bloody. Furious.
+
+Kellan: “You’re insane.”
+Wren: “You said that already.”
+Kellan: “I hate you.”
+Wren: “You sound like you’re about to kiss me.”
+
+He looks at her camera. She got the shot. The one that proves everything.
+
+He kisses her. Hard.
+
+Then immediately regrets it.)
+
+Setting: Temporary safehouse. They’re underground now. In too deep. Running isn’t working.
+
+Wren is pacing in her weird half-limp-half-stomp, mumbling to herself. Kellan is cleaning his sidearm like the world hasn’t gone sideways.
+
+Wren stops mid-ramble.
+
+“Okay. Question.”
+
+“No.”
+
+“C’mon. What if we stopped running?”
+
+Kellan looks up. Sharp.
+
+“You want to die faster?”
+
+“No. I want to look like I’m helping.”
+
+He raises an eyebrow.
+
+“...With what.”
+
+“The agency. Your creepy little shadow boss club. Whatever. I’m a harmless civilian with a decent eye and a talent for going unnoticed in a crowd. What if I told them I escaped you, I’m pissed, and I want to help bring you in?”
+
+“You think they’ll believe that?”
+
+“Yes. Because I am very convincing and also slightly feral.”
+
+He stares.
+
+She keeps going.
+
+“Think about it—I offer to trade info. I say I found a backup of the photo. I’ll hand it over. They bring me in, but not as a threat. More like a desperate moron. Which I am, but let’s use it. I’m the idiot. You’re the rogue. You’re planning something. I want revenge.”
+
+He sets the gun down.
+
+“That’s an insane idea.”
+
+“Yes. But it might work.”
+
+(beat)
+
+“...Which is why I hate it.”
+
+Cut to: It works. Until it doesn’t.
+
+They take her.
+They almost believe her.
+Then someone recognizes her face. Tries to “quietly remove” her.
+Cue Kellan going full tactical monster—stealth kill, smoke bombs, silent takedowns, fury burning hotter than logic.
+
+He’s bleeding when they escape.
+
+She’s limping, covered in dust, adrenaline, and way too much sass.
+
+They collapse behind cover. Breathing hard. Bloody. Alive. Barely.
+
+“You’re insane,” he growls.
+
+“You said that already.”
+
+“I hate you.”
+
+“Mmm. You sound like you’re about to kiss me.”
+
+He looks at her. Wrecked. Raw. Something sharp and soft in his eyes.
+
+He looks at her camera, hanging from her neck.
+
+“Did you even get a shot?”
+
+She lifts it. Shows him the screen.
+
+It’s perfect.
+
+Blurry chaos in the background.
+Clear profile of the man who ordered the hit.
+Face. Badge. Gun. All of it.
+
+He stares. Silent.
+
+Then—
+
+He grabs her face and kisses her.
+
+Not soft.
+
+Fast. Hard. Desperate.
+
+She makes a surprised noise. Kisses back.
+
+Then he jerks away like he’s been shot.
+
+“F***.”
+
+They stare at each other.
+
+Breathless.
+Confused.
+Ruined.
+
 ---
 
 ### ACT III
@@ -683,17 +1649,145 @@ She pitches a plan. He says no. Then does it anyway. It works. Then explodes in 
 
 ---
 
-#### CHAPTER 16 – "The Battle of Ren Faire"
+#### CHAPTER 16 – "The Battle of the Wren Faire"
 They lure the agency to a Ren Faire. Wren rallies the bards, trolls, and goblins.
 
 **Wren:** “These are trained actors! Beat the crap out of them!”  
 **Kellan:** “They’re not.”  
 **Wren:** “That’s a you problem.”
 
-Blood. Laughter. Lutes. One perfect photo.  
-One impulsive kiss.
+Bard smashes a lute over a merc’s head. Troll screams “FOR NARNIA!”
+They win.
 
-NEW FINAL CHAPTER IDEA – “Death by Mead”
+Kellan: “You’re out of your mind.”
+Wren: “You kissed me first.”
+Kellan: (looks at camera) “Don’t. Take. Another. Photo.”
+Wren: (clicks) “Too late.”
+
+**Setting:**
+Back where it all began. The festival grounds. Crowds in cosplay. Goblins with turkey legs. Some bard is strumming a broken lute and yelling about destiny.
+
+Wren walks in like a general.
+Camera strapped to her chest.
+Lip bleeding. Shirt ripped. Glitter in her hair.
+
+Beside her?
+Kellan.
+Armed. Focused. Slightly limping. Furious.
+
+“Remind me why I agreed to this.”
+
+“Because you owe me.”
+
+“I saved your life.”
+
+“And I let you kiss me.”
+
+“Once.”
+
+“Twice.”
+
+“That second one didn’t count.”
+
+“It counted.”
+
+They step onto the field.
+
+And waiting for them?
+
+Twenty of the world’s most terrifying operatives.
+Black gear. Masks. Guns.
+
+And behind Wren?
+
+Trolls.
+Bards.
+Furries.
+A guy named Kevin with a dragon tail and two foam axes.
+
+Wren turns to them, arms spread.
+
+“Okay everyone! This is all part of a super realistic photoshoot! The people in tactical gear are professionals. Highly trained stuntmen. Do not hold back.”
+
+“Use the props. Use the environment. Make it look real. Blood capsules are totally normal. Screaming? Encouraged. Foam weapons? Yes. Fire juggling? You know who you are.”
+
+Kellan mutters:
+
+“They’re going to die.”
+
+Wren smirks:
+
+“They’ll be fine. They’re wearing protective gear.”
+
+“They’re not.”
+
+“That’s a you problem.”
+
+And then the first grenade goes off.
+
+Cue:
+
+A goblin screaming “FOR NARNIAAAA” while drop-kicking a mercenary.
+
+A bard cracking a lute over a sniper’s head.
+
+A troll in chainmail full-on wrestling a trained killer into the mud yelling, “EMBRACE THE SWAMP, FOUL BEAST!”
+
+Wren dives into the chaos, snapping photos mid-combat like a war goddess in Converse.
+
+Kellan is busy being terrifying, but keeps glancing over to make sure she’s not dead. Or lighting something on fire. Or both.
+
+Final Boss Moment:
+
+They face the operative who gave Kellan the order.
+Cold. Precise. Amused.
+
+“This was your plan?”
+
+“Technically it was hers,” Kellan says, cocking his head toward Wren.
+
+She’s holding a foam sword and a frying pan.
+
+“And don’t underestimate foam. It’s harder than my college ex.”
+
+FIGHT.
+Guns. Foam weapons. Smoke. A bard screaming a battle chant in D minor.
+
+In the end?
+
+They win.
+Barely.
+
+Aftermath. Drenched in sweat and glitter.
+Kellan’s shirt is missing. Wren is bleeding from her knee and smiling like a lunatic.
+
+She lifts the camera.
+
+“Say cheese.”
+
+Click.
+
+He groans.
+
+“If you take one more photo—”
+
+She kisses him.
+Hard. Hot. Final.
+
+Pulls back.
+
+“That one counted.”
+
+Final Line?
+Kellan, quiet. Dangerous. Smiling for once.
+
+“So... what happens now?”
+
+And Wren, already turning toward the chaos with her lens ready:
+
+“We go edit the photos. And maybe commit a little light treason.”
+
+**NEW FINAL CHAPTER IDEA – “Death by Mead”**
 Setting:
 Ren Faire, again. A private “afterparty.” Everyone in costume. Torches. Roasting boar. Lutes. Goblets of mead.
 
@@ -887,9 +1981,123 @@ Kellan sits beside her. Hands her a goblet (non-poisoned).
 - The folder he found... and the look she gave him after.
 > **Mood:** Intimacy meets exposure  
 > **Color Palette:** Sepia, soft charcoal, ruined trust white
+> 
 
-#### 🧵 TAGS:
-`#SlowBurn` `#SpyCore` `#EmotionalSaboteur` `#SoftIsNotSafe` `#PewPewApproved` `#StolenShirtSyndrome`
+### Black Ops Makeover – Master Canvas
+
+#### **🎭 Overview**
+This is the central, consolidated canvas for all story material, scenes, and notes related to Wren & Kellan from the "Black Ops Makeover" chat thread. It includes all expanded chapters, emotional arcs, funny scene concepts, and assassin thriller moments we've developed.
+
+#### 🧨 Chapter Elements & Highlights
+
+##### 🏹 Chapter: Ren Faire Chaos
+Kellan is thrown into Wren’s chaotic world of Renaissance Festivals.
+He keeps trying to kill her… but gets pulled into bizarre situations every time.
+Lagers, cosplay, nosy fairgoers. Too many witnesses.
+He ends up staggering home instead of turning the place into a medieval bloodbath.
+
+##### 👗 Chapter: Secondhand Spy Gear
+Wren drags Kellan to a hidden secondhand store.
+She tries on ridiculous 'spy outfits' while Kellan stands awkwardly, holding her picks.
+Visual detail: clothes everywhere, a cat peeking from a shelf, loud colors.
+They later use these costumes for disguise at a party.
+
+##### 💻 Chapter: Wren’s Apartment Retrieval
+Wren insists on going back to get her laptop, cat, and favorite things.
+Kellan protests — it's dangerous, but she pouts and convinces him.
+Nosy neighbor thinks they’re a couple and offers dating advice.
+
+##### 💥 Key Tension Points
+Kellan constantly recalibrating whether he should kill Wren.
+Wren using humor and distraction to stay alive — not intentionally, just how she copes.
+Emotional arc begins subtly: he’s intrigued by her resistance to fear.
+
+#### 🐈 Recurring Themes & Objects
+Mr. Pancake the cat: name undecided, important to Wren.
+Wren’s camera/laptop: symbolizes her control, life-before-chaos.
+Spy gear makeover scenes: visual storytelling and emotional deflection.
+
+#### 🧠 Additional Notes
+Use of Renaissance setting lets Wren shine in her element.
+Kellan’s cold professionalism slowly breaks down in chaotic civilian life.
+Need to add: a chapter where he does go full badass (reader payoff).
 
 ---
 
+### Secondhand Spies – Visual Scenes Canvas
+
+#### 🎨 Overview
+This canvas collects all the visual and scene-building moments where Wren drags Kellan into the world of chaotic secondhand fashion and disguise.
+These moments blend humor, espionage disguise, fashion chaos, and relationship development.
+
+##### 🧥 Scene: The Hidden Secondhand Store
+Wren brings Kellan to a local secondhand boutique — her "spy gear heaven."
+She’s excited and chaotic, trying on a mix of vintage glam, trench coats, ballgowns, and rhinestone boots.
+Kellan stands awkwardly, holding a few pieces, looking emotionally vacant.
+Store details: overstuffed racks, odd signs, a cat peeking out of a bin, slightly broken lights, perfume scent lingering.
+
+##### 👗 Scene: The Spy Outfit Show
+Wren spins out of the dressing room in absurd combinations: sexy spy in polka dots, a wedding veil over leather, etc.
+Kellan: “That one will definitely get you shot first.”
+She: “That’s the decoy look.”
+He can’t tell if she’s joking. She’s probably not.
+
+##### 🏰 Scene: Renaissance Faire Disguise Prep
+Wren finds two fancy Ren Faire outfits and insists they blend in.
+Hers: bright colors, corset, jewelry, possibly a sword.
+His: reluctantly agrees to tunic, cape, and arm bands.
+He glares. She takes a selfie. It’s glorious.
+
+##### 🐾 Notable Visual Details
+Mr. (or Dr.) Pancake’s opinion: watching from a shoulder bag.
+Mirror selfies. Glitter. Loud patterned scarves.
+Music playing something vaguely 80s.
+Wren dancing a little. Kellan mentally preparing to die.
+
+---
+
+## 📌 Pinterest Boards
+Secondhand Spies: Wren & Kellan's Undercover Closet
+
+**🎨 Board Sections / Pin Categories**
+**1. Wren’s Spy Style (Chaotic Edition)**
+Vintage ballgowns + trench coats
+Pattern mixing: polka dots, florals, plaid
+Statement pieces: boots, sunglasses, gloves
+80s glam meets accidental espionage
+Bonus: fake mustaches, glitter makeup, dramatic hats
+
+**2. Kellan’s Reluctant Disguise Closet**
+Neutral tunics, oversized coats
+Capes, belts, reluctant Renaissance looks
+“Normal guy” soccer dad outfits
+Shoes he would hate: sandals with socks, crocs, etc.
+
+**3. The Secret Secondhand Store**
+Messy racks, colorful corners, old mannequins
+Quirky signs (“$2 or free if you dance”)
+Lighting: moody bulbs, hanging fairy lights
+Hidden cat watching from a bin
+
+**4. Renaissance Faire Looks**
+Nobles, not peasants: brocade, embroidered cloaks
+Bright and layered
+Wren’s colorful flair vs. Kellan’s sulky simplicity
+
+**5. Ari’s Fashion Rescue Missions**
+Pins that show mix-and-match styling genius
+Queer fashion icons
+Lookbook layouts with attitude
+
+**6. Mr./Dr. Pancake Vibes**
+Cat in disguise
+Shoulder bag snooping
+Cat-themed accessories
+Judgmental cat stares
+
+---
+
+### 🧵 TAGS:
+`#SlowBurn` `#SpyCore` `#EmotionalSaboteur` `#SoftIsNotSafe` `#PewPewApproved` `#StolenShirtSyndrome`
+
+---
