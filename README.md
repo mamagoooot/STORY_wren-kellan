@@ -267,7 +267,6 @@ Painted matte navy. Doesn’t match.
 - Absence as aesthetic  
 - Brutalist noir
 
-
 ---
 
 ## 🔥 TONE & THEMES
@@ -329,9 +328,20 @@ Painted matte navy. Doesn’t match.
 ## ⏳ PLOT & TIMELINE
 
 ### ACT I
+***Overview***
 - Wren witnesses something at a festival
 - Kellan is sent to clean it up (kill her)
 - Wren escapes — not through skill, but accident
+#### CHAPTER 1 – "Wrong Lens"
+#### CHAPTER 2 – "The Tent Job Goes Sideways"
+Kellan, a ghost-level operative, infiltrates Wren’s yurt to recover the evidence and eliminate her cleanly. No witnesses. No drama. Just wipe the drive, destroy the backups, and silence the loose end.
+
+He’s mid-mission when a glitter-covered troll cosplayer kicks open the tent flap and yells, “Bro! Lager?”
+Kellan nearly strangles him on instinct. Wren appears, assuming he’s just another awkward actor who got lost. She offers him a seat and introduces him to a conga line of goat-hoofed acrobats.
+
+Every time Kellan tries to slip away to finish the job, someone hands him a drink or shoves a tambourine into his hands. He contemplates killing the entire crowd, but there are too many witnesses. Too many distractions. Too much mead.
+
+Eventually, he decides not to turn the place into a medieval bloodbath—tempting as it is. He staggers out, sleep-deprived, overstimulated, and somehow slightly glittered. The target is still alive. For now.
 
 ### ACT II
 - Psychological chase begins
@@ -339,13 +349,19 @@ Painted matte navy. Doesn’t match.
 - Obsession grows — Wren is unpredictable
 - Emotional cracks form; Kellan delays action
 - Betrayal happens (Wren tries to get him arrested or escapes him at cost)
+- 
+#### CHAPTER 3 – "Not the Popcorn Guy"
+They keep bumping into each other. Wren assumes he’s a tragic LARP introvert working through trauma. Kellan deletes her files without her noticing. She thinks he’s mysterious. He thinks she’s exhausting.
 
-#### 🗓️ Wren & Kellan Post-Shooting Safehouse Timeline (with Dual Ratings)
+#### CHAPTER 4 – "Brunch Is Not a Threat"
+Wren invites him to brunch. Her friends flirt and interrogate. Kellan considers assassination via mimosa. Wren shares her fries. He doesn’t smile. She’s intrigued. He’s still considering murder.
 
-This timeline tracks all locations Wren and Kellan stay in after Wren is shot—detailing location, duration, what happens, and how each of them rates the experience (very differently).
 ---
 
-#### 0. 📍 Initial Incident
+#### CHAPTER 5 – "Glass and Steel"
+A sniper takes a shot. Kellan shields her. Patches the wound with disturbing calm. She realizes he’s not cosplay. She runs. He catches her.
+
+**SafeHouse 0. 📍 Initial Incident**
 - **Event**: Wren is shot.
 - **Location**: Unknown urban area.
 - **Outcome**: Kellan extracts her instead of eliminating her.
@@ -353,7 +369,10 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
 
 ---
 
-#### 1. 🏙️ Kellan’s Apartment – “The Ghost’s Nest”
+#### CHAPTER 6 – "You’re Mine Until I Say Otherwise"
+Wren wakes in a safehouse. Kellan tells her she’s still a mission. He hasn’t decided whether to let her live. He’s not lying.
+
+**SafeHouse 1. 🏙️ Kellan’s Apartment – “The Ghost’s Nest”**
 - **Location**: Secure, high-end flat with minimalist design.
 - **Duration**: ~2–3 weeks
 - **Events**:
@@ -362,16 +381,21 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - She raids his luxury closet and disrupts his system.
   - She insists on returning to her apartment to rescue **Dr. Pancake** (her cat) and grab her files.
 - **Why They Leave**: Syndicate or metadata leak compromises safety. Kellan burns it down to erase evidence.
-
 **Wren’s Rating**: ★★☆☆☆  
 > “Zero snacks. Creepy silence. Nice towels. Lost two stars for blood-shaming me.”
-
 **Kellan’s Rating**: ★★★★☆  
 > “Clean. Secure. Strategically located. Would’ve been five stars until she reorganized my knives by color.”
 
 ---
 
-#### 2. 🏞️ Remote Cabin – “Snowed-In & Tense”
+#### CHAPTER 7 – "Inventory"
+Wren explores the safehouse. Finds scissors. Tries to stab him. Trips. Falls on him. Accidentally straddles him.
+
+**Wren:** “Weird first kiss setup.”  
+**Kellan:** “You’re ruining my life.”  
+**Wren:** “You’re welcome.”
+
+**SafeHouse 2. 🏞️ Remote Cabin – “Snowed-In & Tense”**
 - **Location**: Off-grid forest or mountain hideout.
 - **Duration**: ~1 week
 - **Events**:
@@ -379,16 +403,26 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - Forced proximity. One bed. Emotional walls start to crack.
   - Quiet nights. Long silences. Accidental tenderness.
 - **Why They Leave**: A dead-drop or external ping reveals they’ve been tracked. Forced evacuation.
-
 **Wren’s Rating**: ★★★☆☆  
 > “Cozy-ish. Fire saved it. Still mad he made me take fever meds *without* hot cocoa.”
-
 **Kellan’s Rating**: ★★☆☆☆  
 > “Unreliable generator. No perimeter tech. She made soup and cried at the wind. Burn it all.”
 
 ---
 
-#### 3. 🚇 Underground Bunker – “The Mold Dungeon”
+#### CHAPTER 8 – "Delay Protocol"
+He lets her run. For fun. Then the agency sends a kill order. He realizes they’re going to take *his* target. Not acceptable.
+He intercepts the hit team. Kills them. She sees everything. Blood, violence, the truth.
+
+---
+
+#### CHAPTER 9 – "The Only Safe Place Is in His Hands (And That’s the Problem)"
+He patches her up again. She asks why he’s saving her. He says it’s not mercy. It’s control.  
+She hates how safe he makes her feel.
+
+---
+
+**SafeHouse 3. 🚇 Underground Bunker – “The Mold Dungeon”**
 - **Location**: Disused metro access or tunnel bunker.
 - **Duration**: ~4–5 days
 - **Events**:
@@ -396,16 +430,19 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - She starts planning escape or contacting outside help.
   - The bunker is compromised—message left behind, power flickers.
 - **Why They Leave**: Someone has found them—or wants them to know it.
-
 **Wren’s Rating**: ★☆☆☆☆  
 > “It smells like mold, trauma, and bad decisions. Absolutely not.”
-
 **Kellan’s Rating**: ★★★★☆  
 > “Untraceable, power-independent, silent. She lasted 36 hours before asking if it had ghosts. It does not.”
 
 ---
 
-#### 4. 🖼️ Ari’s Loft – “The Fashion Refuge”
+#### CHAPTER 10 – "Through the Lens"
+She photographs him. He hates it. He’s not meant to exist. He takes her camera. Then takes *her* picture.
+**Wren:** “Why’d you do that?”  
+**Kellan:** “Now we’re even.”
+
+**SafeHouse 4. 🖼️ Ari’s Loft – “The Fashion Refuge”**
 - **Location**: Bright, artistic penthouse with high windows and curated chaos.
 - **Duration**: 1–2 nights
 - **Events**:
@@ -413,16 +450,38 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - Ari tries to style Kellan and emotionally dissects him for fun.
   - Wren laughs—actually laughs.
 - **Why They Leave**: Ari is being followed. Loft is too public to stay longer.
-
 **Wren’s Rating**: ★★★★★  
 > “Coffee, couture, compliments. I’m home.”
-
 **Kellan’s Rating**: ★☆☆☆☆  
 > “Too many windows. Too much velvet. He tried to style me. I was offered a feathered scarf. No.”
 
 ---
 
-#### 5. 🧱 Border Safehouse – “The Cracked Shell”
+#### CHAPTER 11 – "What Did I See?"
+She demands answers.
+
+**Wren:** “What the f*** did I see?”  
+**Kellan:** “A man who doesn’t exist. And you proved he does.”
+
+---
+
+#### CHAPTER 12 – "Tiny Scissors, Big Mistake"
+She tries to stab him. Trips again. Lands on him.
+
+**Wren:** “That’s not a gun, is it?”  
+**Kellan:** (groaning) “Kill me now.”
+
+---
+
+#### CHAPTER 13 – "This Is a Dumb Hiding Place and I Hate Everything"
+They hide in a dryer. She ends up on his lap. Again.
+
+---
+
+#### CHAPTER 14 – "Still Think I’m Joking?"
+He pins her to the wall. Doesn’t kiss her. Almost does. Regrets everything.
+
+**SafeHouse 5. 🧱 Border Safehouse – “The Cracked Shell”**
 - **Location**: Collapsing stone building near a smuggling route or border town.
 - **Duration**: ~5–7 days
 - **Events**:
@@ -430,16 +489,14 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - Kellan appears to betray her—hands her over.
   - She realizes too late it’s a ruse… or not?
 - **Why They Leave**: Betrayal, escape, confusion. It implodes fast.
-
 **Wren’s Rating**: ★★☆☆☆  
 > “Romance potential: spicy. Bathroom: horrifying.”
-
 **Kellan’s Rating**: ★★☆☆☆  
 > “Functional ruin. Excellent escape routes. Emotional landmine. She made me sleep next to her *on purpose*.”
 
 ---
 
-#### 6. 🪵 Burned Farmhouse – “Final Hideout”
+**SafeHouse 6. 🪵 Burned Farmhouse – “Final Hideout”**
 - **Location**: Possibly tied to Kellan’s past (abandoned family site or old mission location).
 - **Duration**: ~2 days
 - **Events**:
@@ -447,10 +504,8 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
   - The dynamic flips. She’s the shield now.
   - They plan their final move. One of them might not come back.
 - **Why They Leave**: Final mission, final confrontation, or permanent disappearance.
-
 **Wren’s Rating**: ★★★★☆  
 > “Still cold and half-burned, but he finally let me have the bed. Would cry here again.”
-
 **Kellan’s Rating**: ★★★☆☆  
 > “Exposed but off-grid. No one left alive who remembers this place. She called it 'our rustic trauma cottage.'”
 
@@ -460,7 +515,29 @@ This timeline tracks all locations Wren and Kellan stay in after Wren is shot—
 - Kellan breaks mission protocol
 - Final confrontation (rescue, fake death, or mutual collapse)
 - They go separate ways or vanish together
+---
 
+#### CHAPTER 15 – "The Dumbest Smart Plan"
+She pitches a plan. He says no. Then does it anyway. It works. Then explodes in their faces. Literally.
+
+---
+
+#### CHAPTER 16 – "The Battle of Ren Faire"
+They lure the agency to a Ren Faire. Wren rallies the bards, trolls, and goblins.
+
+**Wren:** “These are trained actors! Beat the crap out of them!”  
+**Kellan:** “They’re not.”  
+**Wren:** “That’s a you problem.”
+
+Blood. Laughter. Lutes. One perfect photo.  
+One impulsive kiss.
+
+---
+
+#### CHAPTER 17 – "Death by Mead"
+(Still in progress...)
+
+---
 ---
 
 ## 🪄 WORLDBUILDING & STYLE
