@@ -332,8 +332,169 @@ Painted matte navy. Doesn’t match.
 - Wren witnesses something at a festival
 - Kellan is sent to clean it up (kill her)
 - Wren escapes — not through skill, but accident
+
 #### CHAPTER 1 – "Wrong Lens"
+The Ren Faire was chaos, which meant Wren was in heaven.
+
+She crouched low behind a kettle corn stand, camera pressed to her eye, snapping fast bursts of a woman in fairy wings dramatically sword-fighting a guy dressed like a pirate-wizard. Behind them, a man juggled flaming batons while shouting something in broken Elvish.
+
+This is the stuff, she thought. Give me weird. Give me messy. Give me Renaissance-themed madness and sunscreen-streaked hobbits.
+
+She adjusted her lens, swept the crowd, froze.
+
+There—just outside the tree line.
+
+Not in costume.
+Not in the program.
+
+A man in black. Not dramatic black—no flowing cloak or fake leather armor. Just… practical. Fitted. Minimal. Watching the crowd like he didn’t want to be seen. Or maybe like he expected a threat to pop out from behind the turkey leg stand.
+
+She lifted the camera. Zoomed in. Clicked. Three shots. One clean profile.
+
+And then he looked at her.
+
+Right through the lens.
+
+Right at her.
+
+She dropped the camera, heart thudding.
+
+“Yikes,” she muttered. “Okay, chill. Maybe he’s just an anxious accountant. In tactical cosplay. In June.”
+
+She shook it off and turned toward the jousting arena. Got distracted by a corgi in chainmail. Took another dozen pictures and forgot about him.
+
+The man in black turned. Walked away.
+
+The moment passed.
+
+The photo didn’t.
+
 #### CHAPTER 2 – "The Tent Job Goes Sideways"
+CHAPTER 2 – “The Tent Job Goes Sideways”
+The yurt smelled like cedar and bad decisions.
+
+Wren had decorated it with string lights, a mini incense burner shaped like a dragon, and at least three half-finished costumes. Her camera bag was tossed beside the cot. Her laptop was still warm, sleep mode blinking softly.
+
+Kellan stood just inside the flap. Silent. Focused.
+
+She wasn’t there yet. He liked that. Clean. Controlled. Get in. Eliminate the variable. Leave no mess.
+
+He moved like a shadow. Quiet boots on cheap carpet. One gloved hand brushed her camera. The other reached toward the laptop.
+
+He was two seconds from wiping the drive when—
+
+“YO WRRRREN! I brought mead!”
+
+The flap flew open.
+
+A seven-foot troll ducked inside. Foam armor. Green face paint. Horned helmet askew. A plastic tankard sloshing amber liquid all over the rugs.
+
+Kellan froze.
+
+The troll squinted at him.
+
+“Whoa. Sorry, bro. Didn’t know you were… y’know. Busy.”
+
+“I’m not.”
+
+“Cool cool. Just—ya looked real intense over there.”
+
+The troll dropped the tankard on the floor and stumbled toward a pile of cloaks.
+
+“I’ma borrow the cloak with the fur. You seen her? She promised to do, like, some elf braid thing before the fire dance.”
+
+Kellan stared.
+
+“I haven’t seen her.”
+
+“You new to the guild? You’re not in costume.”
+
+“...Right.”
+
+The troll nodded solemnly.
+
+“Respect. Minimalist chaos mage aesthetic. Clean lines. Menacing aura. Love it.”
+
+He grabbed the cloak, knocked over a lamp, belched, and disappeared out the flap, yelling something about orc jam sessions.
+
+Kellan exhaled. Tension reset. He looked back at the camera bag.
+
+And paused.
+
+He wasn’t bored anymore.
+
+-
+
+Kellan had already wiped the files. The camera, the cards, the laptop—clean.
+
+All that was left now was her.
+
+And she was laughing. Somewhere near the tavern tent. Loud, unfiltered, full-bodied laughter, the kind that made people turn their heads. He followed the sound with a sniper’s precision and the soul-deep ache of a man who’d rather be committing felony silence.
+
+This should’ve been done hours ago.
+
+But she kept slipping away—literally. One minute she was beneath a paper lantern, the next she was chasing a goose through a fencing demonstration.
+
+He couldn’t kill her like that. Too many eyes. Too much mud. Too much… performance.
+
+By the time he found her again, she was onstage.
+
+Wren had joined a bardic singalong.
+
+She had a tambourine.
+
+She was dancing.
+
+He watched her from behind the ale tent, jaw tight, coat damp with beer from some idiot who thought he was part of the brewing guild and had tried to hug him.
+
+Just kill her. You’ve done worse in tighter crowds.
+
+But every time he started to move—every time he stepped out of shadow and into range—
+
+“Hey, you! You with the boots!”
+
+He froze.
+
+A woman in chainmail shoved a mug of lager into his hands.
+
+“You’re with the Black Lion Company, right? They need bodies for the mock ambush at dusk.”
+
+“I’m not—”
+
+“Save it for the crowd. Fight starts at the cannon. Try not to stab anyone in the face.”
+
+She winked and disappeared.
+
+He looked down at the mug.
+
+Then at Wren, who was now leading a group of children in a chant about dragons.
+
+I’m going to kill her.
+
+But not tonight.
+
+Because five minutes later, someone shoved a flower crown on his head, handed him a turkey leg, and pulled him into a conga line.
+
+By the time the fire show started, he was three drinks in, covered in glitter, and clapping politely as a man in goat hooves did cartwheels through flaming hoops.
+
+I could end this. Right now. Just one shot.
+
+He didn’t.
+
+He staggered home instead.
+
+The last thing he remembered was Wren’s voice floating through the night air:
+
+“Isn’t this the best? I love how it never makes sense!”
+
+Kellan muttered into the dark:
+
+“I hate everything.”
+
+And passed out on the floor.
+
+-
+
 Kellan, a ghost-level operative, infiltrates Wren’s yurt to recover the evidence and eliminate her cleanly. No witnesses. No drama. Just wipe the drive, destroy the backups, and silence the loose end.
 
 He’s mid-mission when a glitter-covered troll cosplayer kicks open the tent flap and yells, “Bro! Lager?”
@@ -532,10 +693,131 @@ They lure the agency to a Ren Faire. Wren rallies the bards, trolls, and goblins
 Blood. Laughter. Lutes. One perfect photo.  
 One impulsive kiss.
 
+NEW FINAL CHAPTER IDEA – “Death by Mead”
+Setting:
+Ren Faire, again. A private “afterparty.” Everyone in costume. Torches. Roasting boar. Lutes. Goblets of mead.
+
+The vibe? Ridiculously festive.
+
+Wren’s been invited back as the “faire’s hero”—for saving the day during the “amazing live-action performance event.” She thinks they’re joking.
+
+She brings Kellan.
+
+He’s on edge from the second they arrive.
+
+Kellan (deadpan): “This is a trap.”
+Wren: “It’s a party.”
+Kellan: “With free drinks.”
+Wren: “It’s medieval-themed, of course they’re fermented.”
+Kellan: “No one’s sweating.”
+Wren: “What?”
+Kellan: “Everyone’s too dry. They’re not here for the food. They’re here for us.”
+
+The Setup:
+They get handed goblets.
+A bard starts singing.
+A toast is made—“To the Shadow and the Lens!”
+Wren raises her glass.
+
+Kellan knocks it out of her hand.
+
+“Poison.”
+
+Everyone freezes.
+
+Suddenly?
+
+The real actors pull knives.
+Someone starts coughing blood.
+The guy in the satyr costume is dead.
+
+Chaos erupts.
+
+The Twist:
+This wasn’t an agency op.
+It was someone else—a third party.
+Maybe the rogue handler himself, thinking he could eliminate them both with style.
+
+“You like theater, Kellan?”
+“Only when everyone dies at the end.”
+
+Final Fight:
+Kellan fights with a halberd he grabs off the wall.
+
+Wren uses a pyrotechnics panel from the stage.
+
+One of the fake knights turns out to be a real one—and helps.
+
+Someone dies via poisoned turkey leg.
+
+And the whole thing ends with Wren dumping a flaming flagon of wine onto the rogue’s face.
+
+Aftermath:
+They survive. Again.
+
 ---
 
 #### CHAPTER 17 – "Death by Mead"
-(Still in progress...)
+FINAL CHAPTER – “Death by Mead” (Wren & Kellan’s Version)
+Setting:
+The Ren Faire is back on. Bigger than ever.
+But this time, Wren is the guest of honor.
+And this time, it’s a setup.
+
+She invites the key operatives.
+Kellan arranges forged intel to bring in the rest.
+The rogue handler thinks it’s his trap.
+He has no idea he’s the one being served the poisoned mead.
+
+Wren’s Speech (Holding a Goblet)
+“To theater! To survival! And to all of us who wear masks—not to hide, but to survive the goddamn show!”
+
+Everyone drinks.
+
+Everyone smiles.
+
+And then… people start dropping.
+
+Kellan calmly starts locking the exits.
+
+Poison Notes:
+One guy stabs a juggler. The juggler gets up and throws knives back.
+
+Another tries to run—only to be tripped by a troll in platform boots yelling, “YOU SHALL NOT PASS, CORPORATE SCUM!”
+
+Someone faceplants in the pie tent.
+
+Wren to Kellan, mid-fight:
+“I can’t believe this actually worked.”
+
+“You poisoned an entire army.”
+
+“I watched a lot of CSI growing up!”
+
+“You dosed the honey wine?!”
+
+“THEY SHOULDN’T HAVE TRUSTED THEME DRINKS!”
+
+Final Target: The Rogue Handler
+They leave him for last. Let him watch the chaos.
+
+Kellan: “You always did love theater.”
+Handler: “You wouldn’t—”
+Wren: “Cue the fireworks.”
+
+Boom.
+Stage pyrotechnics blow the guy off his feet.
+
+Aftermath:
+Wren, covered in glitter and blood, flops down on a hay bale.
+
+“I want a funnel cake and a nap.”
+
+Kellan sits beside her. Hands her a goblet (non-poisoned).
+
+“I still hate you.”
+
+“Yeah,” she smirks, “but you kissed me first.”
 
 ---
 ---
